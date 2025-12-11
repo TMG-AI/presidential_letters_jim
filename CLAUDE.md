@@ -131,9 +131,17 @@ Before finalizing any letter:
 - Added Historical Context Guidelines section to this file
 
 ### Not Yet Done
-- [ ] Deploy to Vercel (user needs to do this manually)
+- [x] Deploy to Vercel — DONE
 - [ ] Draft launch email for Jim (Dec 18) — draft provided in chat
 - [ ] Set up email notifications (decided to use Gmail scheduled sends)
+
+## SCHEDULED PUBLISH: December 31, 2025 at 7am
+
+**Nixon letter is in `src/data/upcoming-letters.js`**
+
+On Dec 31 morning, tell Claude: "Publish the Nixon letter"
+
+This will move it from upcoming-letters.js to letters.js and push to GitHub/Vercel.
 
 ## Key Files
 - `src/data/letters.js` — **ADD NEW LETTERS HERE** (newest first in array)

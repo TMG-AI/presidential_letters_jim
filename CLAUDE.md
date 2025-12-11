@@ -34,13 +34,51 @@
 - Italian ancestry (won Machiavelli Award)
 - Deep Montana roots, huge Montana Grizzlies football fan
 
+### Personal Interests & Tastes
+- **Sports:** Fly fishing, Denver Broncos, college football (especially Montana Grizzlies), college basketball (picks Louisville, follows March Madness), New York Yankees
+- **Food/Drink:** Steak, good wine, macaroni and cheese (comfort food)
+- **Entertainment:** Music, loved the movie "Lincoln"
+- **Tech:** iPhone guy, not Blackberry
+
+### Key Background (Expanded)
+- Born in Denver, raised in Boise, Idaho
+- Raised by single mother
+- **Fourth grade origin story:** Volunteered to represent Jimmy Carter in a 1980 class mock election — lost badly to Reagan. This sparked his interest in politics.
+- Max Baucus was his mentor ("father-son relationship")
+- His political mentor is Dave Hunter from Montana — "the wisest political operator I've ever met"
+- Obama 2012 campaign manager ("best-run campaign ever" — Eric Schmidt)
+- White House Deputy Chief of Staff 2009-2011
+- Nickname: "The Fixer"
+- Democrat through-and-through but pragmatic (worked with UK Conservatives Cameron/May)
+- Data-driven, tech-savvy, tough but has "big heart"
+- Italian ancestry (won Machiavelli Award)
+- Deep Montana roots, huge Montana Grizzlies football fan
+- Graduated University of Montana 1993 (political science)
+- 1993: As college senior, managed Dan Kemmis's successful mayoral re-election in Missoula
+- 1995: Went to work for Sen. Max Baucus
+- Worked with Baucus to stop Bush's Social Security privatization plan
+
+### "White Knuckle" Campaign Moments (His Words)
+- August 2011 debt-limit crisis when Obama's numbers were "historically low"
+- After the first 2012 debate "when everyone was very, very concerned"
+- Said of both: "Even then I believed we would win"
+
+### How He Describes Obama
+- "Intelligent and committed"
+- "Always the smartest guy in the room"
+- Admires Obama for doing "what was right for the country" over political decisions (auto bailout, healthcare)
+
 ### What Presidents Might Reference
-- His Montana connection (Jeannette Rankin, Grizzlies football, Max Baucus)
+- His Montana connection (Jeannette Rankin, Grizzlies football, Max Baucus, University of Montana)
+- His fourth-grade Carter campaign loss to Reagan
 - His pragmatism / willingness to work across party lines
 - His reputation as "The Fixer"
 - His data-driven approach
 - His age (56) — compare to historical figures at same age
 - His loyalty
+- Fly fishing (outdoor presidents could bond over this)
+- Denver Broncos / Yankees fandom
+- His love of steak and good wine
 
 ---
 

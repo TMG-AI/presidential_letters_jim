@@ -44,16 +44,15 @@ Pat is calling again. I should go be a husband for an hour before I'm back to be
 
 Happy New Year, Jim. Give my regards to your people — even the ones who've been giving me hell. Here's hoping '73 is easier on all of us.`,
     historicalContext: {
-      background: "B-52s took off from Guam one per minute for hours, flying 12-hour round-trip missions requiring mid-air refueling. The North Vietnamese called it 'Dien Bien Phu of the air.' Strategic Air Command had no contingency plan for this kind of strategic bombing — they fell back on 8-year-old Arc Light tactics designed for completely different objectives in South Vietnam and Laos.",
+      background: "The North Vietnamese called it 'Dien Bien Phu of the air' — invoking their legendary 1954 victory over France that ended colonial rule. American newspaper headlines were brutal: 'Genocide,' 'Stone-Age Barbarism,' 'Savage and Senseless.' The New York Times accused Nixon of 'disregard of humanitarian principles'; columnist James Reston called it 'war by tantrum.' Sweden's Prime Minister Olof Palme compared it to Guernica, Treblinka, and the massacre at Katyn — the U.S. withdrew its ambassador in response.",
       keyFacts: [
-        "North Vietnam had prepared: after studying B-52 tactics for months, they published a manual called 'How to Fight the B-52' and distributed it to all SA-2 missile units",
-        "On the first night alone, North Vietnam fired 200 surface-to-air missiles at incoming bombers — crews said they looked like 'telephone poles with lights' illuminating the night sky",
-        "A critical flaw: post-target turns pointed B-52 jamming antennas away from the radars they were trying to jam, leaving bombers vulnerable for precious extra minutes",
-        "B-52 tail gunners claimed two MiG-21s shot down — the last air-to-air kills by bomber gunners in history",
-        "Of 92 B-52 crewmen shot down, 26 were rescued, 33 captured, and 33 killed",
+        "North Vietnam had prepared: after studying American tactics for months, they published a manual called 'How to Fight the B-52' and distributed it to all missile units",
+        "On the first night alone, North Vietnam fired 200 surface-to-air missiles — crews said they looked like 'telephone poles with lights' illuminating the night sky",
         "Bach Mai hospital was hit by a wayward string of bombs, killing 28 doctors and nurses — it became a rallying point for peace activists worldwide",
         "At least 1,624 North Vietnamese civilians were killed in the 11-day campaign",
-        "Only half of the B-52G models had received the latest electronic countermeasure modifications — the unmodified planes proved fatally vulnerable to SAMs"
+        "CBS gave six times as much airtime to critics as supporters; the New York Times ratio was 19-to-1 against; the Washington Post, 25-to-1",
+        "Nixon refused to explain the bombing to the American people — speechwriter Ray Price later said 'He thought it was diplomatically vital that he make this look as cold an operation as possible'",
+        "Of 92 American crewmen shot down, 26 were rescued, 33 captured, and 33 killed"
       ],
       whatPresidentKnew: "Nixon knew the bombing would be controversial, but the White House tapes reveal how little the civilian cost weighed on him. When Kissinger raised concerns about casualties earlier that year, Nixon replied: 'I don't give a damn. I don't care.' In June 1972, when the famous napalm photo of children fleeing an attack was published, Nixon discussed it coldly with Haldeman, more concerned with whether it was staged than with the suffering it depicted. By December 31, he knew Hanoi had agreed to return to talks — but not whether the terms would hold or what the final agreement would look like.",
       quote: {
@@ -97,7 +96,7 @@ Do write when you can — your letters always lift my spirits.
 
 Affectionately,`,
     historicalContext: {
-      background: "The attack lasted just 110 minutes — from 7:55 a.m. to 9:45 a.m. — yet it transformed American history. Japan had traveled 3,400 miles across the Pacific to execute the strike, planning it since January 1941. The name 'Pearl Harbor' itself comes from the Hawaiian 'Wai Momi' (Waters of Pearl), named for the pearl oysters that once thrived there before being harvested to extinction by the late 1800s.",
+      background: "The attack lasted just 110 minutes — from 7:55 a.m. to 9:45 a.m. — yet it transformed American history. The Japanese fleet had traveled 3,400 miles across the Pacific in complete secrecy, maintaining radio silence the entire voyage, planning the strike since January 1941. The name 'Pearl Harbor' itself comes from the Hawaiian 'Wai Momi' (Waters of Pearl), named for the pearl oysters that once thrived there before being harvested to extinction by the late 1800s.",
       keyFacts: [
         "The first shots were fired before any planes arrived: USS Ward sank a Japanese midget submarine at the harbor entrance at 6:45 a.m., but Navy brass dismissed the report",
         "Radar operators detected the incoming Japanese planes but the warning was waved off — officers assumed it was a flight of American B-17s expected that morning",
@@ -105,7 +104,6 @@ Affectionately,`,
         "There were 38 sets of brothers serving aboard the USS Arizona; 63 of those 79 men died together",
         "America's first POW of WWII: Kazuo Sakamaki, a Japanese submariner whose vessel malfunctioned — he washed ashore unconscious and was captured on Waimanalo Beach",
         "When Commander Fuchida radioed 'Tora! Tora! Tora!' it wasn't a battle cry — it was code telling the Japanese fleet they had achieved complete surprise",
-        "The Japanese fleet had traveled 3,400 miles across the Pacific in complete secrecy, maintaining radio silence the entire voyage",
         "Doris Miller, an African American mess attendant on the USS West Virginia, manned an anti-aircraft gun despite having no training — he was later awarded the Navy Cross"
       ],
       whatPresidentKnew: "Eleanor Roosevelt later recalled finding her husband 'deadly calm' that afternoon — 'If it was something bad, he just became almost like an iceberg.' That night, he told her privately that America would 'have to take a good many defeats before we can have a victory.' To his Cabinet, he said: 'This is probably the most serious crisis any Cabinet has confronted since the Civil War.' In drafting his speech, FDR made one crucial edit by hand: he crossed out 'a date which will live in world history' and replaced it with the far more powerful word — 'infamy.'",

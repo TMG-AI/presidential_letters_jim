@@ -1,6 +1,6 @@
 # Presidential Inbox — Session Notes
 
-**Last Updated:** December 10, 2025
+**Last Updated:** December 10, 2025 (evening)
 
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
@@ -87,7 +87,10 @@ Before finalizing any letter:
 - [x] Pushed to GitHub
 
 ### Pending Changes (NOT YET PUSHED)
-- Removed "— Germany and Italy declared war on December 11th" from FDR letter (redundant with historical context)
+- Enhanced historical context for both FDR and Nixon letters with unique facts
+- Added Eleanor Roosevelt's recollections to FDR "What the President Knew"
+- Added Nixon tape quotes about civilian casualties to Nixon "What the President Knew"
+- Added Historical Context Guidelines section to this file
 
 ### Not Yet Done
 - [ ] Deploy to Vercel (user needs to do this manually)
@@ -147,6 +150,40 @@ P.S. New letters will show up from time to time. I'll let you know when one arri
 - App shows letter whose month/day is closest to today's date
 - Letters ordered newest-first in data file
 - Historical context includes: background, keyFacts, whatPresidentKnew, quote
+
+---
+
+## Historical Context Guidelines (IMPORTANT)
+
+The historical context section appears at the bottom of each letter in the app. It should ADD VALUE, not repeat what's in the letter.
+
+### What to Include:
+1. **Unique, lesser-known facts** that would intrigue a history buff like Jim
+2. **Primary source material** — quotes from diaries, memoirs, biographies, tapes
+3. **Personal details** from people who were there (Eleanor's observations, cabinet members' recollections, etc.)
+4. **Fascinating operational details** (e.g., B-52s taking off one per minute from Guam)
+5. **Human stories** (e.g., 38 sets of brothers on the Arizona, Doris Miller manning the gun)
+
+### What NOT to Include:
+1. **Nothing already in the letter** — don't repeat what the president wrote
+2. **No future events** — don't reference things that happened after the letter's date
+3. **No obvious statements** — don't say "Roosevelt didn't know how long the war would last"
+4. **No generic background** — assume Jim knows the basics; give him the insider details
+
+### "What the President Knew" Section:
+This is the most interesting part. Include:
+- Private quotes from diaries, tapes, or memoirs
+- Observations from those closest to them (spouse, cabinet, staff)
+- Their emotional state as recalled by witnesses
+- Specific decisions or edits they made (e.g., FDR changing "world history" to "infamy")
+
+### Research Sources to Look For:
+- Presidential memoirs and autobiographies
+- Biographies by major historians (Doris Kearns Goodwin, Robert Caro, etc.)
+- White House tapes (Nixon, LBJ, JFK)
+- Letters and diaries from the era
+- Spouse memoirs (Eleanor Roosevelt, Lady Bird Johnson, etc.)
+- Cabinet member recollections
 
 ## Research Notes
 

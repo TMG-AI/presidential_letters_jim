@@ -44,17 +44,18 @@ Pat is calling again. I should go be a husband for an hour before I'm back to be
 
 Happy New Year, Jim. Give my regards to your people — even the ones who've been giving me hell. Here's hoping '73 is easier on all of us.`,
     historicalContext: {
-      background: "Operation Linebacker II ran from December 18-29, 1972, after peace negotiations in Paris collapsed. It was the largest heavy bomber operation since World War II. By December 26, North Vietnam signaled willingness to resume negotiations. The Paris Peace Accords were signed on January 27, 1973.",
+      background: "B-52s took off from Guam one per minute for hours, flying 12-hour round-trip missions requiring mid-air refueling. The North Vietnamese called it 'Dien Bien Phu of the air.' Strategic Air Command had no contingency plan for this kind of strategic bombing — they fell back on 8-year-old Arc Light tactics designed for completely different objectives in South Vietnam and Laos.",
       keyFacts: [
-        "December 13: Le Duc Tho breaks off Paris negotiations",
-        "December 18-29: Linebacker II bombing campaign (11 days)",
-        "Over 20,000 tons of ordnance dropped on Hanoi and Haiphong",
-        "15 B-52s lost; 33 airmen killed; 33 captured",
-        "December 26: North Vietnam signals willingness to resume talks",
-        "January 27, 1973: Paris Peace Accords signed",
-        "March 1973: Last American POWs released from Hanoi"
+        "North Vietnam had prepared: after studying B-52 tactics for months, they published a manual called 'How to Fight the B-52' and distributed it to all SA-2 missile units",
+        "On the first night alone, North Vietnam fired 200 surface-to-air missiles at incoming bombers — crews said they looked like 'telephone poles with lights' illuminating the night sky",
+        "A critical flaw: post-target turns pointed B-52 jamming antennas away from the radars they were trying to jam, leaving bombers vulnerable for precious extra minutes",
+        "B-52 tail gunners claimed two MiG-21s shot down — the last air-to-air kills by bomber gunners in history",
+        "Of 92 B-52 crewmen shot down, 26 were rescued, 33 captured, and 33 killed",
+        "Bach Mai hospital was hit by a wayward string of bombs, killing 28 doctors and nurses — it became a rallying point for peace activists worldwide",
+        "At least 1,624 North Vietnamese civilians were killed in the 11-day campaign",
+        "Only half of the B-52G models had received the latest electronic countermeasure modifications — the unmodified planes proved fatally vulnerable to SAMs"
       ],
-      whatPresidentKnew: "By December 31, Nixon knew the bombing had achieved its immediate objective: Hanoi had agreed to return to negotiations. He did not yet know whether the talks would succeed, what the final terms would look like, or whether South Vietnam could survive after American withdrawal. The POW release was not yet guaranteed.",
+      whatPresidentKnew: "Nixon knew the bombing would be controversial, but the White House tapes reveal how little the civilian cost weighed on him. When Kissinger raised concerns about casualties earlier that year, Nixon replied: 'I don't give a damn. I don't care.' In June 1972, when the famous napalm photo of children fleeing an attack was published, Nixon discussed it coldly with Haldeman, more concerned with whether it was staged than with the suffering it depicted. By December 31, he knew Hanoi had agreed to return to talks — but not whether the terms would hold or what the final agreement would look like.",
       quote: {
         text: "The bastards have never been bombed like they're going to be bombed this time.",
         attribution: "Richard Nixon to Henry Kissinger, December 14, 1972"
@@ -96,16 +97,18 @@ Do write when you can — your letters always lift my spirits.
 
 Affectionately,`,
     historicalContext: {
-      background: "On December 7, 1941, Japan launched a surprise attack on the U.S. Pacific Fleet at Pearl Harbor, Hawaii. The attack killed 2,403 Americans, wounded 1,178 more, sank or damaged 19 ships, and destroyed 188 aircraft. The following day, President Roosevelt addressed Congress and requested a declaration of war. On December 11, Germany and Italy declared war on the United States, bringing America fully into the global conflict.",
+      background: "The attack lasted just 110 minutes — from 7:55 a.m. to 9:45 a.m. — yet it transformed American history. Japan had traveled 3,400 miles across the Pacific to execute the strike, planning it since January 1941. The name 'Pearl Harbor' itself comes from the Hawaiian 'Wai Momi' (Waters of Pearl), named for the pearl oysters that once thrived there before being harvested to extinction by the late 1800s.",
       keyFacts: [
-        "December 7, 1:47 PM ET: Roosevelt receives first word of the attack",
-        "December 8: 'Day of Infamy' speech to Congress (6 minutes, ~500 words)",
-        "December 8: Congress declares war on Japan (Senate 82-0, House 388-1)",
-        "December 11: Germany and Italy declare war on the United States",
-        "2,403 Americans killed; USS Arizona lost 1,177 crew",
-        "Jeannette Rankin of Montana: sole vote against war declaration"
+        "The first shots were fired before any planes arrived: USS Ward sank a Japanese midget submarine at the harbor entrance at 6:45 a.m., but Navy brass dismissed the report",
+        "Radar operators detected the incoming Japanese planes but the warning was waved off — officers assumed it was a flight of American B-17s expected that morning",
+        "All three U.S. aircraft carriers happened to be away from Pearl Harbor that day — by pure chance",
+        "There were 38 sets of brothers serving aboard the USS Arizona; 63 of those 79 men died together",
+        "America's first POW of WWII: Kazuo Sakamaki, a Japanese submariner whose vessel malfunctioned — he washed ashore unconscious and was captured on Waimanalo Beach",
+        "When Commander Fuchida radioed 'Tora! Tora! Tora!' it wasn't a battle cry — it was code telling the Japanese fleet they had achieved complete surprise",
+        "The Japanese fleet had traveled 3,400 miles across the Pacific in complete secrecy, maintaining radio silence the entire voyage",
+        "Doris Miller, an African American mess attendant on the USS West Virginia, manned an anti-aircraft gun despite having no training — he was later awarded the Navy Cross"
       ],
-      whatPresidentKnew: "By December 18, Roosevelt understood the full political transformation Pearl Harbor had caused — the isolationist movement had collapsed overnight. He knew he now faced a two-front war after Germany's declaration. He did not yet know how long the war would last, how the early months would bring defeat after defeat in the Pacific, or the full cost that lay ahead.",
+      whatPresidentKnew: "Eleanor Roosevelt later recalled finding her husband 'deadly calm' that afternoon — 'If it was something bad, he just became almost like an iceberg.' That night, he told her privately that America would 'have to take a good many defeats before we can have a victory.' To his Cabinet, he said: 'This is probably the most serious crisis any Cabinet has confronted since the Civil War.' In drafting his speech, FDR made one crucial edit by hand: he crossed out 'a date which will live in world history' and replaced it with the far more powerful word — 'infamy.'",
       quote: {
         text: "Yesterday, December 7th, 1941 — a date which will live in infamy — the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.",
         attribution: "Franklin D. Roosevelt, Address to Congress, December 8, 1941"

@@ -5,6 +5,69 @@
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
 
+---
+
+## Critical Design Principles
+1. Letters must sound like warm friend-to-friend correspondence — NOT essays, NOT speeches, NOT formal letters
+2. Jim Messina is a Democrat — Republican presidents should include friendly political ribbing
+3. Never start letters abruptly — Open with warmth, personal connection, or a scene
+4. Jim is treated as a contemporary — He has worked with each president in some capacity
+5. Each president writes from a specific historical moment — Use the calendar doc for dates/events
+6. Include personal touches — Montana references, age comparisons, shared experiences
+
+---
+
+## Jim Messina Profile
+- **Born:** October 29, 1969, Boise, Idaho
+- **Age:** 56 (as of 2025)
+- **Education:** University of Montana (political science/journalism, 1993)
+- **Current Role:** CEO, The Messina Group
+
+### Key Background
+- Raised by single mother
+- Max Baucus was his mentor ("father-son relationship")
+- Obama 2012 campaign manager ("best-run campaign ever" — Eric Schmidt)
+- White House Deputy Chief of Staff 2009-2011
+- Nickname: "The Fixer"
+- Democrat through-and-through but pragmatic (worked with UK Conservatives Cameron/May)
+- Data-driven, tech-savvy, tough but has "big heart"
+- Italian ancestry (won Machiavelli Award)
+- Deep Montana roots, huge Montana Grizzlies football fan
+
+### What Presidents Might Reference
+- His Montana connection (Jeannette Rankin, Grizzlies football, Max Baucus)
+- His pragmatism / willingness to work across party lines
+- His reputation as "The Fixer"
+- His data-driven approach
+- His age (56) — compare to historical figures at same age
+- His loyalty
+
+---
+
+## Letter Structure
+1. **Opening** — Warm, personal, sets the scene (never jump straight to the topic)
+2. **The Historical Moment** — What's happening, why it matters
+3. **Personal Reflection** — What they're really thinking/feeling (not for public consumption)
+4. **Connection to Jim** — Why they're telling HIM this, what they value about him
+5. **Closing** — Warm sign-off, looking forward to hearing from him
+
+**Target Length:** 600-900 words
+
+---
+
+## Quality Checklist
+Before finalizing any letter:
+- [ ] Does it sound like a friend writing, not an essay?
+- [ ] Is the opening warm and personal (not abrupt)?
+- [ ] Is historical accuracy verified for what president knew ON THAT DATE?
+- [ ] Is there a personal connection to Jim?
+- [ ] For GOP presidents: Is there friendly political ribbing?
+- [ ] Does the voice match the president's actual writing style?
+- [ ] Is the signature correct for how they signed to friends?
+- [ ] Is length appropriate (600-900 words)?
+
+---
+
 ## Repository
 - **GitHub:** https://github.com/TMG-AI/presidential_letters_jim
 - **Local Path:** `/Users/shannonwheatman/presidential-inbox`
@@ -95,4 +158,47 @@ P.S. New letters will show up from time to time. I'll let you know when one arri
 
 ### FDR Letter Fixes Made
 1. Rankin reference: Changed from "as she did in 1917" (inaccurate — she wasn't alone in 1917) to "her pacifism as unwavering now as it was in 1917"
-2. Removed redundant "— Germany and Italy declared war on December 11th" (pending push)
+2. Removed redundant "— Germany and Italy declared war on December 11th" ✅ PUSHED
+
+---
+
+## Voice Cards (For Future Letters)
+
+### FDR Voice Card
+- **Writing Style:** Warm, patrician, uses dashes liberally, literary but accessible
+- **Personality:** Confident, optimistic even in crisis, genuinely warm to friends
+- **How he addressed friends:** "My dear [Name]"
+- **Signature to friends:** "Affectionately, Franklin"
+
+### Nixon Voice Card
+- **Writing Style:** Analytical, self-justifying, punctuated with profanity in private, uses dashes
+- **Personality:** Paranoid about press, deeply strategic, surprisingly sentimental about loyalty
+- **How he addressed friends:** "Dear [Name]"
+- **Signature to friends:** "Dick"
+- **Notes:** Include Pat references, friendly ribbing about Jim being a Democrat, football references
+
+---
+
+## 52-Week Calendar Reference
+See original project document for full calendar. Key notes:
+- All 46 presidents covered, 6 appear twice
+- Week 47: Use McKinley (not third Lincoln)
+- Week 51: Use Arthur (not second Pierce)
+
+---
+
+## Completed Letters
+
+### Week 1: Franklin D. Roosevelt
+- **Subject:** "Can't Sleep"
+- **Written From:** December 18, 1941 (11 days after Pearl Harbor)
+- **Delivered:** December 18, 2025
+- **Key Elements:** Eleanor reference, Jeannette Rankin/Montana, age comparison (Patton 56), speech-writing scene
+- **Signature:** "Affectionately, Franklin"
+
+### Week 2: Richard Nixon
+- **Subject:** "What They Won't Print"
+- **Written From:** December 31, 1972 (after Linebacker II)
+- **Delivered:** December 31, 2025
+- **Key Elements:** Pat calling him to champagne, Grizzlies 3-8 season tease, "The Democrat?", Kissinger skepticism acknowledged, authentic profanity ("those bastards"), POW families, FDR age comparison
+- **Signature:** "Dick"

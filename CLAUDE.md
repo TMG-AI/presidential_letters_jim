@@ -1,6 +1,6 @@
 # Presidential Inbox — Session Notes
 
-**Last Updated:** December 10, 2025 (evening)
+**Last Updated:** December 11, 2025 (morning)
 
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
@@ -103,6 +103,7 @@ Before finalizing any letter:
 - [ ] Does the voice match the president's actual writing style?
 - [ ] Is the signature correct for how they signed to friends?
 - [ ] Is length appropriate (600-900 words)?
+- [ ] AVOID REPETITION: Don't use the same devices in every letter (e.g., age comparisons — used in FDR, don't overuse)
 
 ---
 
@@ -135,13 +136,17 @@ Before finalizing any letter:
 - [ ] Draft launch email for Jim (Dec 18) — draft provided in chat
 - [ ] Set up email notifications (decided to use Gmail scheduled sends)
 
-## SCHEDULED PUBLISH: December 31, 2025 at 7am
+## SCHEDULED PUBLISH DATES
 
-**Nixon letter is in `src/data/upcoming-letters.js`**
+**Letters are in `src/data/upcoming-letters.js`**
 
-On Dec 31 morning, tell Claude: "Publish the Nixon letter"
+### December 31, 2025 at 7am — Nixon
+Tell Claude: "Publish the Nixon letter"
 
-This will move it from upcoming-letters.js to letters.js and push to GitHub/Vercel.
+### ~January 7-8, 2026 — Washington
+Tell Claude: "Publish the Washington letter"
+
+This will move letters from upcoming-letters.js to letters.js and push to GitHub/Vercel.
 
 ## Key Files
 - `src/data/letters.js` — **ADD NEW LETTERS HERE** (newest first in array)
@@ -260,6 +265,14 @@ This is the most interesting part. Include:
 - **Signature to friends:** "Dick"
 - **Notes:** Include Pat references, friendly ribbing about Jim being a Democrat, football references
 
+### Washington Voice Card
+- **Writing Style:** Formal 18th-century prose, long complex sentences, period spellings (retir'd, deliver'd, fix'd, labour'd, sacrific'd), elaborate metaphors
+- **Personality:** Reluctant leader, duty-bound, deeply private, longing for Mount Vernon
+- **How he addressed friends:** "My dear Sir" or "My dear friend"
+- **Signature to friends:** "Your most Obedt. & Affecte. Hble Servant, G. Washington"
+- **Key themes:** Untrodden ground, setting precedents, sacrifice of private happiness, burden of office
+- **Actual quotes to use:** "culprit going to execution," "bid adieu to all expectations of private happiness," "untrodden ground"
+
 ---
 
 ## 52-Week Calendar Reference
@@ -285,3 +298,11 @@ See original project document for full calendar. Key notes:
 - **Delivered:** December 31, 2025
 - **Key Elements:** Pat calling him to champagne, Grizzlies 3-8 season tease, "The Democrat?", Kissinger skepticism acknowledged, authentic profanity ("those bastards"), POW families, FDR age comparison
 - **Signature:** "Dick"
+
+### Week 3: George Washington
+- **Subject:** "The Burdens of This Station"
+- **Written From:** January 8, 1790 (after First State of the Union)
+- **Delivered:** ~January 7-8, 2026
+- **Key Elements:** Martha retiring for evening, authentic 18th-century language (retir'd, deliver'd, tho'), "culprit going to execution" quote, Hamilton/Jefferson faction warning, Mount Vernon longing, age comparison (57), period abbreviations in signature
+- **Signature:** "Your most Obedt. & Affecte. Hble Servant, G. Washington"
+- **Voice Notes:** Uses period spellings, formal address ("My dear Sir"), long complex sentences, elaborate structure

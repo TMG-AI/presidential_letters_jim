@@ -1,6 +1,6 @@
 # Presidential Inbox — Session Notes
 
-**Last Updated:** December 11, 2025 (morning)
+**Last Updated:** December 12, 2025
 
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
@@ -140,13 +140,16 @@ Before finalizing any letter:
 
 **Letters are in `src/data/upcoming-letters.js`**
 
-### December 31, 2025 at 7am — Nixon
+### December 31, 2025 — Nixon (Week 2)
 Tell Claude: "Publish the Nixon letter"
 
-### ~January 7-8, 2026 — Washington
+### ~January 7-8, 2026 — Washington (Week 3)
 Tell Claude: "Publish the Washington letter"
 
-This will move letters from upcoming-letters.js to letters.js and push to GitHub/Vercel.
+**To publish a letter:**
+1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
+2. Push to GitHub — Vercel auto-deploys
+3. Send Jim an email that a new letter arrived
 
 ## Key Files
 - `src/data/letters.js` — **ADD NEW LETTERS HERE** (newest first in array)

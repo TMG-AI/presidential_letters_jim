@@ -7,9 +7,109 @@
  * SCHEDULED:
  * - Nixon: December 31, 2025 at 7am
  * - Washington: January 8, 2026 (or first week of January)
+ * - JFK: ~January 21, 2026
+ * - Reagan: ~January 28, 2026
  */
 
 export const upcomingLetters = [
+  // Week 5: Reagan — PUBLISH ~JAN 28, 2026
+  {
+    id: 'week-5-reagan',
+    week: 5,
+    president: 'Ronald Reagan',
+    writtenFrom: 'January 28, 1986',
+    eventTitle: 'The Challenger Disaster',
+    subject: "Finding the Words",
+    letter: `Dear Jim,
+
+I've been wanting to write to you all day but couldn't find the words until now. I'm not sure I've found them yet, but I'm going to try.
+
+You've seen what happened. The whole world has. Seventy-three seconds after launch, and they were gone — all seven of them. I've been turning it over in my mind for hours, trying to understand something that doesn't make sense. Christa McAuliffe was going to teach a lesson from space. Every classroom in America was watching. Every child saw it happen.
+
+I was supposed to give the State of the Union tonight. We postponed it — first time that's ever been done, they tell me. It didn't feel like a decision. It was just the only decent thing to do.
+
+I spoke to the country a few hours ago. Peggy Noonan wrote it for me — you'd like her, she's got a sharp mind and knows how to cut through the noise. She ended it with lines from a poem called "High Flight," written by a young pilot who died in the war: "slipped the surly bonds of earth to touch the face of God." I used to read that poem on a plaque outside Patti's school when I'd drop her off in the mornings. Strange, the things that stay with you. I wasn't sure about using it — felt like it might be reaching for something. But sometimes when there's nothing adequate to say, you have to reach.
+
+Here's what I keep thinking about, Jim: How do you talk to a country that just watched seven people die on live television? I had to speak to the children who lost their teacher and to the NASA engineers who are already blaming themselves, all in the same five minutes. I had to find words for the eight-year-old and the eighty-year-old in the same breath, without talking down to either one. There's no playbook for that. You just stand there and hope something true comes out.
+
+You know, we've sparred plenty over the years. You're a Democrat down to your bones, and I suspect nothing I do will ever change that. But I've noticed something about you — when things go sideways, you don't disappear. You show up. You roll up your sleeves and figure out what needs doing. That's rarer than it should be. Most people are only around for the easy days.
+
+There will be investigations. There should be. But tonight I just want to remember their names: Dick Scobee, Michael Smith, Judith Resnik, Ellison Onizuka, Ronald McNair, Gregory Jarvis, and Christa McAuliffe. They climbed into that shuttle because they believed in something.
+
+Tomorrow the questions start. Tonight, we just grieve. But tomorrow I'll get up and do this job again, because that's what the job requires. The country needs to see that we go on.
+
+Write when you get a chance.
+
+Warmly,`,
+    historicalContext: {
+      background: "The Space Shuttle Challenger disaster on January 28, 1986, was one of the most watched tragedies in American history. NASA had invited Christa McAuliffe, a high school social studies teacher from Concord, New Hampshire, to be the first private citizen in space as part of the Teacher in Space Project. Because of her presence, schools across America had set up televisions so students could watch the launch live. An estimated 17% of Americans — and millions of schoolchildren — witnessed the shuttle break apart 73 seconds after liftoff.",
+      keyFacts: [
+        "The Challenger crew included five NASA astronauts and two payload specialists: Commander Dick Scobee, Pilot Michael Smith, Mission Specialists Judith Resnik, Ellison Onizuka, and Ronald McNair, and Payload Specialists Gregory Jarvis and Christa McAuliffe",
+        "The disaster was caused by the failure of an O-ring seal in the right solid rocket booster, which had become brittle in the unusually cold Florida weather that morning (36°F at launch)",
+        "Engineer Roger Boisjoly of Morton Thiokol had warned NASA the night before that the O-rings could fail in cold temperatures — his concerns were overruled",
+        "The speech Reagan delivered that evening was written by Peggy Noonan, then a relatively unknown White House speechwriter, in just a few hours",
+        "Reagan was initially skeptical of Noonan's closing lines from the poem 'High Flight' — the next morning he called her and said Frank Sinatra had phoned to praise the speech, adding 'and Frank doesn't call after every speech'",
+        "Three days later, Reagan and Nancy traveled to Houston for a memorial service at the Johnson Space Center, where T-38 jets flew overhead in the missing man formation"
+      ],
+      whatPresidentKnew: "When the news reached Reagan, his 'eyes went wide, his mouth opened in total surprise,' according to Cabinet Secretary Alfred Kingon. Reagan and his staff gathered around a television in stunned silence, watching the footage replay again and again. He later called it 'a very traumatic experience.' Reagan faced a unique challenge: he had to address both grieving adults and the millions of children who had just watched their teacher die on live television. Noonan later said Reagan had to 'speak to the nation's kids while saying what was appropriate to adults... to those who were 8 and those who were 80, without patronizing anyone.' There were also questions — never proven — about whether White House pressure to launch before the State of the Union had contributed to NASA's decision to proceed despite the cold weather.",
+      quote: {
+        text: "The crew of the space shuttle Challenger honored us by the manner in which they lived their lives. We will never forget them, nor the last time we saw them, this morning, as they prepared for their journey and waved goodbye and 'slipped the surly bonds of earth' to 'touch the face of God.'",
+        attribution: "Ronald Reagan, Address to the Nation, January 28, 1986"
+      }
+    },
+    signature: 'Ron'
+  },
+
+  // Week 4: JFK — PUBLISH ~JAN 21, 2026
+  {
+    id: 'week-4-jfk',
+    week: 4,
+    president: 'John F. Kennedy',
+    writtenFrom: 'January 21, 1961',
+    eventTitle: 'The Morning After the Inauguration',
+    subject: "Before the Machinery Takes Over",
+    letter: `Dear Jim,
+
+The house is quiet. Jackie is still asleep — she earned it after yesterday — and the children won't stir for another hour. I've been up since before dawn, which surprises no one more than me given when I finally got to bed. But sleep wouldn't come. My mind keeps turning over everything that happened, and everything that's about to happen.
+
+I wanted to write to you before the machinery of this office takes over.
+
+Yesterday was unlike anything I could have imagined. The snow nearly wrecked the whole affair — they had Army engineers and Boy Scouts out before dawn, clearing Pennsylvania Avenue with flamethrowers and plows. And then the sun came out, so bright off the snow that poor Robert Frost couldn't read the poem he'd written for the occasion. He's eighty-six years old, squinting at the page while Lyndon tried to shield it with his top hat. It was no use. So Frost set the paper aside and recited "The Gift Outright" from memory instead. An old man summoning the words without a net. I'll remember that moment for the rest of my life.
+
+In an hour I'm signing my first executive order. We're doubling the surplus food distributed to families in need. It's not enough — it's never enough — but it's a start, and it's the first thing I wanted to do. You know why.
+
+West Virginia. I went there during the primary expecting to understand something about this country, and I discovered I understood almost nothing. I met families living in conditions I couldn't have imagined existed in America — coal miners thrown out of work, surviving on government surplus, children who looked hungry. There I was, a Harvard man in a pressed suit, asking for their votes. I felt like a fraud until I stopped talking and started listening.
+
+What I learned is that I need people around me who know what struggle actually looks like. Not from textbooks, not from briefings — from life. You're one of those people, Jim. You didn't inherit your place at the table. You fought your way there, and you remember what it's like when the rent is due and you're not sure how to make it. That kind of memory doesn't leave a person. It shapes how you see the world, who you fight for, what you're willing to do. I admire it more than I can properly express — because I don't have it, and I know that's a blind spot.
+
+"Ask not what your country can do for you — ask what you can do for your country." I meant every word. But I'll confess to you what I can't say publicly: the people who need to hear that message most are people like me, not people like you. You've been asking what you can do for others your whole life. That's not rhetoric for you. It's just Tuesday.
+
+I don't know what the next four years will bring. There will be crises I can't foresee and decisions that will keep me up at night. But I believe we have a real chance to do something meaningful — not just for the people who already have everything, but for the ones who've been forgotten. The ones I met in West Virginia. That executive order is the first step. There will be more.
+
+Write when you can. I want the unfiltered version — not what people think the President wants to hear.
+
+Yours,`,
+    historicalContext: {
+      background: "John F. Kennedy's inauguration on January 20, 1961, was a triumph of logistics over weather. A major winter storm had dumped eight inches of snow on Washington the night before, nearly canceling the ceremony. The Army Corps of Engineers, over 1,000 city workers, and 1,700 Boy Scouts worked through the night with plows, dump trucks, and flamethrowers to clear Pennsylvania Avenue. By morning, the skies had cleared but temperatures hovered around 20°F. Nearly one million people braved the cold to witness Kennedy take the oath — the youngest man ever elected to the presidency, and the first Catholic.",
+      keyFacts: [
+        "Robert Frost, 86 years old, was the first poet ever invited to speak at a presidential inauguration — he had written a new poem called 'Dedication' for the occasion but couldn't read it due to the blinding sun glare off the snow",
+        "Vice President Lyndon Johnson tried to shield Frost's paper with his top hat, but it didn't help — Frost abandoned the new poem and recited 'The Gift Outright' from memory instead",
+        "Kennedy's famous 'Ask not' line was inspired by his old headmaster at Choate, who often said: 'Ask not what Choate can do for you, but what you can do for Choate'",
+        "The night before, Frank Sinatra and Peter Lawford produced a star-studded inaugural gala; Kennedy stayed out until nearly 4:00 a.m. on inauguration morning",
+        "Jackie Kennedy, exhausted and still recovering from John Jr.'s birth two months earlier, left the inaugural balls early; JFK continued to a party hosted by his father and didn't return to the White House until 3:30 a.m.",
+        "Kennedy's first act as president the next morning was to sign Executive Order 10914, doubling the surplus food distributed to needy families — a direct result of what he'd witnessed in West Virginia",
+        "The West Virginia primary had been a turning point: Kennedy, who admitted he'd 'barely ever seen poverty before,' was shocked by conditions in Appalachian mining towns and later credited the experience with shaping his domestic agenda"
+      ],
+      whatPresidentKnew: "Kennedy understood he had won one of the closest elections in American history — just 112,000 votes separated him from Nixon out of nearly 69 million cast. He knew half the country doubted whether a 43-year-old Catholic could handle the job. In private, he was already consumed by foreign policy crises: the deteriorating situation in Laos, tensions with the Soviet Union, and a CIA plan (inherited from Eisenhower) to use Cuban exiles to overthrow Fidel Castro. He did not yet know that plan would become the Bay of Pigs disaster in just three months. On the morning of January 21, as he looked out at the snow-covered South Lawn, he was still riding the high of the inauguration — but the weight of the office was already settling in.",
+      quote: {
+        text: "Ask not what your country can do for you — ask what you can do for your country.",
+        attribution: "John F. Kennedy, Inaugural Address, January 20, 1961"
+      }
+    },
+    signature: 'Jack'
+  },
+
+
   // Week 3: Washington — PUBLISH ~JAN 7-8, 2026
   {
     id: 'week-3-washington',

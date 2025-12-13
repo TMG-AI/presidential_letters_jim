@@ -103,7 +103,20 @@ Before finalizing any letter:
 - [ ] Does the voice match the president's actual writing style?
 - [ ] Is the signature correct for how they signed to friends?
 - [ ] Is length appropriate (600-900 words)?
-- [ ] AVOID REPETITION: Don't use the same devices in every letter (e.g., age comparisons — used in FDR, don't overuse)
+- [ ] **CRITICAL — REVIEW ALL PAST LETTERS BEFORE FINALIZING:**
+  - [ ] No repeated themes (e.g., "honest counsel" used in JFK — don't reuse)
+  - [ ] No repeated devices (e.g., age comparisons used in FDR — don't overuse)
+  - [ ] No similar opening structures
+  - [ ] No repeated phrases or language patterns
+  - [ ] Each letter must feel unique in its approach to connecting with Jim
+
+## Themes/Devices Already Used (DO NOT REPEAT)
+- **Age comparisons:** FDR (Patton at 56), Nixon (FDR at 59) — STOP USING
+- **"Honest counsel" / "tell me what you really think":** JFK — don't reuse
+- **Sports/Grizzlies:** Nixon — vary how personal connections are made
+- **Spouse opening scene:** Nixon (Pat), Washington (Martha) — vary openings
+- **Fishing:** Washington — don't overuse outdoor activities
+- **Humble origins/self-made:** JFK — find other ways to connect
 
 ---
 
@@ -145,6 +158,12 @@ Tell Claude: "Publish the Nixon letter"
 
 ### ~January 7-8, 2026 — Washington (Week 3)
 Tell Claude: "Publish the Washington letter"
+
+### ~January 21, 2026 — JFK (Week 4)
+Tell Claude: "Publish the JFK letter"
+
+### ~January 28, 2026 — Reagan (Week 5)
+Tell Claude: "Publish the Reagan letter"
 
 **To publish a letter:**
 1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
@@ -306,6 +325,22 @@ See original project document for full calendar. Key notes:
 - **Subject:** "The Burdens of This Station"
 - **Written From:** January 8, 1790 (after First State of the Union)
 - **Delivered:** ~January 7-8, 2026
-- **Key Elements:** Martha retiring for evening, authentic 18th-century language (retir'd, deliver'd, tho'), "culprit going to execution" quote, Hamilton/Jefferson faction warning, Mount Vernon longing, age comparison (57), period abbreviations in signature
+- **Key Elements:** Martha retiring for evening, authentic 18th-century language (retir'd, deliver'd, tho'), "culprit going to execution" quote, Rhode Island holdout concern, Mount Vernon longing, fishing invitation, period abbreviations in signature
 - **Signature:** "Your most Obedt. & Affecte. Hble Servant, G. Washington"
 - **Voice Notes:** Uses period spellings, formal address ("My dear Sir"), long complex sentences, elaborate structure
+
+### Week 4: John F. Kennedy
+- **Subject:** "Before the Machinery Takes Over"
+- **Written From:** January 21, 1961 (morning after inauguration)
+- **Delivered:** ~January 21, 2026
+- **Key Elements:** Quiet morning scene, Robert Frost unable to read poem due to sun glare, Executive Order 10914 (doubling surplus food), West Virginia poverty experience, admiration for Jim's humble origins/self-made success
+- **Signature:** "Jack"
+- **Voice Notes:** Crisp clear sentences, witty, charming, direct
+
+### Week 5: Ronald Reagan
+- **Subject:** "Finding the Words"
+- **Written From:** January 28, 1986 (Challenger disaster)
+- **Delivered:** ~January 28, 2026
+- **Key Elements:** Somber tone throughout, Peggy Noonan writing the speech, "High Flight" poem on plaque at Patti's school, speaking to 8-year-olds and 80-year-olds, Jim shows up when things go sideways, names all seven crew members, duty to carry on
+- **Signature:** "Ron"
+- **Voice Notes:** Warm, down to earth, gently humorous when appropriate but somber here

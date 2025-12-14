@@ -14,6 +14,7 @@
 4. Jim is treated as a contemporary — He has worked with each president in some capacity
 5. Each president writes from a specific historical moment — Use the calendar doc for dates/events
 6. Include personal touches — Montana references, age comparisons, shared experiences
+7. **AVOID EM DASHES** — Use commas, semicolons, colons, or separate sentences instead. Em dashes are overused and feel modern.
 
 ---
 
@@ -170,6 +171,9 @@ Tell Claude: "Publish the Reagan letter"
 
 ### ~February 9, 2026 — John Quincy Adams (Week 6)
 Tell Claude: "Publish the John Quincy Adams letter"
+
+### ~February 24, 2026 — Andrew Johnson (Week 7)
+Tell Claude: "Publish the Andrew Johnson letter"
 
 **To publish a letter:**
 1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
@@ -358,3 +362,11 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** Introspective self-doubt, "corrupt bargain" accusation, minority president anxiety, father's one-term defeat memory, Jim absorbs criticism and persists, Louisa sends regards to Jim and Taya
 - **Signature:** "John Quincy Adams"
 - **Voice Notes:** Formal but candid, self-critical, scholarly, melancholic
+
+### Week 7: Andrew Johnson
+- **Subject:** "They've Done It"
+- **Written From:** February 24, 1868 (House votes to impeach)
+- **Delivered:** ~February 24, 2026
+- **Key Elements:** Combative and defiant tone, profanity ("bullshit," "bastards"), Tenure of Office Act as trap, tailor's son class resentment, thirty-six senators will decide, fighting not begging
+- **Signature:** "Andrew Johnson"
+- **Voice Notes:** Coarse, stubborn, pugnacious, class-conscious, raw and angry

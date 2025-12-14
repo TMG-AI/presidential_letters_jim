@@ -10,9 +10,59 @@
  * - JFK: ~January 21, 2026
  * - Reagan: ~January 28, 2026
  * - JQA: ~February 9, 2026
+ * - Andrew Johnson: ~February 24, 2026
  */
 
 export const upcomingLetters = [
+  // Week 7: Andrew Johnson — PUBLISH ~FEB 24, 2026
+  {
+    id: 'week-7-ajohnson',
+    week: 7,
+    president: 'Andrew Johnson',
+    writtenFrom: 'February 24, 1868',
+    eventTitle: 'The House Votes to Impeach',
+    subject: "They've Done It",
+    letter: `My dear Sir,
+
+Well, they've done it. Today the House has voted to impeach me.
+
+You'd appreciate the numbers game they played: whips counting noses in cloakrooms, cowards ducking and hedging, radicals lining up to pull the trigger they've been itching to pull for two years. They call it a solemn constitutional duty; I call it what it is: a damned political ambush dressed up in legal language.
+
+These men never forgave me for refusing to be their puppet. They passed that Tenure of Office Act not to uphold any principle, but to lay a trap. Dare me to remove Stanton, then howl that I've broken the law they wrote for that very purpose. They talk about "usurpation" while they reach both hands into the powers of the Presidency and try to rip them out by the roots.
+
+You're a numbers man, so here are the numbers that matter to me: I never asked for this office. It was thrust upon me by an assassin's bullet, but I'll be damned if I surrender it to a mob. Eleven ex-Confederate states they would like to rule like conquered provinces. And thirty-six senators who now get to decide whether any President is allowed to stand up to a vindictive Congress again. They say this is about me and Stanton. That's bullshit. This is about whether the Executive is allowed to say "no" to the loudest faction in the Capitol.
+
+I know what they say about me: that I'm coarse, that I drink, that I shoot my mouth off. Fine. I never pretended to be a polished gentleman. But I am damned if I'll sit here and watch Thaddeus Stevens and his crew tear up the Constitution in the name of "reconstruction" and obedience. They talk of law while they trample it; they talk of union while they run half the country like occupied territory.
+
+If you were advising me, I suppose you'd tell me to stay on message, talk separation of powers, make this about preserving the office, not saving my own hide. I'll do some of that, because it's true: if they can throw me out for a political quarrel, every future President will govern with a knife at his throat whenever Congress gets the votes and the urge. But I won't pretend this isn't personal. They're not just after a theory of government; they're after Andrew Johnson, the tailor's son who wouldn't bow and scrape.
+
+From here out it's a different kind of campaign. No torchlight parades, no county fairs. Just thirty-six men in the Senate, each one weighing whether he wants to go down in history as the one who killed the Presidency to please a mob. They will talk about "conscience" and "country" while counting editors, donors, and party bosses. You'd recognize the game instantly.
+
+If I go down, I'll go down fighting, not begging. I'll call them what they are: hypocrites, fanatics, and power-hungry bastards. And I'll remind the country that today it's me, tomorrow it can be any President who won't lick the hand that holds the gavel.
+
+That may not be pretty, but it's honest. And if there's anything I refuse to surrender to these men, it's the right to speak plainly.
+
+Yours in a hard season,`,
+    historicalContext: {
+      background: "The impeachment of Andrew Johnson was the culmination of a two-year war between the President and the Radical Republicans in Congress over Reconstruction. Johnson, a Tennessee Democrat who had been Lincoln's running mate in 1864, favored a lenient approach to the defeated South. The Radical Republicans wanted to remake Southern society, protect the freed slaves, and punish the rebels. When Johnson vetoed bill after bill, Congress overrode him more times than any president in history. The Tenure of Office Act was their trap: it forbade the president from firing cabinet members without Senate approval. When Johnson fired Secretary of War Edwin Stanton anyway, the House had its grounds for impeachment.",
+      keyFacts: [
+        "Edwin Stanton barricaded himself in the War Department for nearly two months after Johnson fired him, sleeping on a couch and posting armed guards at the door",
+        "Thaddeus Stevens, the driving force behind impeachment, was so ill he had to be carried to the Senate chamber in a chair by two younger men; he died four months after the trial ended",
+        "The Senate printed 1,000 tickets each day to control the crush of spectators; newspaper coverage was relentless and public interest bordered on hysteria",
+        "Johnson's attorney general, Henry Stanbery, resigned his post to lead the president's defense, believing the case important enough to sacrifice his own career",
+        "Johnson never appeared at his own trial, though he gave press interviews throughout and quietly negotiated with senators behind the scenes",
+        "The final vote was 35 to 19 for conviction, one vote short of the two-thirds needed to remove Johnson from office",
+        "Seven Republican senators broke with their party to vote 'not guilty'; they became known as the 'Recusants' and most saw their political careers destroyed"
+      ],
+      whatPresidentKnew: "Johnson knew the impeachment was coming. He had been warned repeatedly that firing Stanton would trigger exactly this response, and he did it anyway, hoping to force a Supreme Court test of the Tenure of Office Act's constitutionality. What he did not know on February 24, 1868, was whether he would survive the trial. The Republicans held more than two-thirds of the Senate. His only hope was that a handful of moderates would decide that removing a president over a policy dispute set a dangerous precedent. Johnson also knew his own combative instincts had hurt him: his rambling, sometimes drunken speeches during the 1866 midterms, in which he compared himself to Christ and called for a congressman to be hanged, had turned public opinion against him. During the trial, he forced himself to stay quiet, a discipline that did not come naturally.",
+      quote: {
+        text: "I have been almost literally tortured. I have suffered more in mind perhaps than any man who has held the office of President.",
+        attribution: "Andrew Johnson, reflecting on the impeachment"
+      }
+    },
+    signature: 'Andrew Johnson'
+  },
+
   // Week 6: John Quincy Adams — PUBLISH ~FEB 9, 2026
   {
     id: 'week-6-jqadams',

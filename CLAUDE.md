@@ -117,6 +117,9 @@ Before finalizing any letter:
 - **Spouse opening scene:** Nixon (Pat), Washington (Martha) — vary openings
 - **Fishing:** Washington — don't overuse outdoor activities
 - **Humble origins/self-made:** JFK — find other ways to connect
+- **"Shows up when things go sideways":** Reagan — don't reuse
+- **Absorbs criticism and persists:** JQA — don't reuse
+- **"Write when you can" closing:** Used in multiple letters — STOP USING
 
 ---
 
@@ -164,6 +167,9 @@ Tell Claude: "Publish the JFK letter"
 
 ### ~January 28, 2026 — Reagan (Week 5)
 Tell Claude: "Publish the Reagan letter"
+
+### ~February 9, 2026 — John Quincy Adams (Week 6)
+Tell Claude: "Publish the John Quincy Adams letter"
 
 **To publish a letter:**
 1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
@@ -344,3 +350,11 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** Somber tone throughout, Peggy Noonan writing the speech, "High Flight" poem on plaque at Patti's school, speaking to 8-year-olds and 80-year-olds, Jim shows up when things go sideways, names all seven crew members, duty to carry on
 - **Signature:** "Ron"
 - **Voice Notes:** Warm, down to earth, gently humorous when appropriate but somber here
+
+### Week 6: John Quincy Adams
+- **Subject:** "Less Chosen Than Appointed"
+- **Written From:** February 9, 1825 (House elects JQA president)
+- **Delivered:** ~February 9, 2026
+- **Key Elements:** Introspective self-doubt, "corrupt bargain" accusation, minority president anxiety, father's one-term defeat memory, Jim absorbs criticism and persists, Louisa sends regards to Jim and Taya
+- **Signature:** "John Quincy Adams"
+- **Voice Notes:** Formal but candid, self-critical, scholarly, melancholic

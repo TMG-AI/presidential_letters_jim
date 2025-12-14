@@ -9,9 +9,65 @@
  * - Washington: January 8, 2026 (or first week of January)
  * - JFK: ~January 21, 2026
  * - Reagan: ~January 28, 2026
+ * - JQA: ~February 9, 2026
  */
 
 export const upcomingLetters = [
+  // Week 6: John Quincy Adams — PUBLISH ~FEB 9, 2026
+  {
+    id: 'week-6-jqadams',
+    week: 6,
+    president: 'John Quincy Adams',
+    writtenFrom: 'February 9, 1825',
+    eventTitle: 'The House Elects John Quincy Adams President',
+    subject: "Less Chosen Than Appointed",
+    letter: `Dear Jim,
+
+I have just returned from Federal Hall, and my hand trembles as I write — not from cold, though the February night is bitter, but from the enormity of what has transpired. Louisa has been magnificent all day, but she has at last retired, and I find myself alone with my thoughts and my diary. Tonight, however, the diary will not suffice. I require a friend who understands the peculiar burdens of political life — and so I write to you.
+
+The House of Representatives has chosen me to be the sixth President of the United States.
+
+I should feel triumph. I feel something closer to dread.
+
+You will have heard the particulars by now. Jackson received the most popular votes. Jackson received the most electoral votes. And yet here I sit, President-elect, because the Constitution sent the question to the House, and because Henry Clay determined that his support should rest with me rather than with the General from Tennessee. Thirteen states for Adams. Seven for Jackson. Four for Crawford. A majority, perfectly legal, and entirely insufficient to silence the whispers that have already begun.
+
+They are calling it a "corrupt bargain," Jim. Jackson's people are saying I traded the State Department for the Presidency — that Clay sold his influence and I bought it. There was no such bargain. I give you my word as a gentleman that Henry and I made no arrangement of the kind. But when I offer Clay the position — as I almost certainly must, for he is the most qualified man for it — who will believe me? The accusation will follow me into the grave.
+
+I am a minority President, my friend. I know it. The country knows it. And Jackson, who sits tonight in his rooms convinced that the people's will has been thwarted, will spend the next four years making certain no one forgets.
+
+You know what this is, Jim. You have maneuvered through political terrain where every decision invites suspicion, where your motives are questioned no matter how pure they may be. You have been called things I will not repeat in writing. And yet you persist. You do the work, absorb the criticism, and keep your eye fixed on what must be accomplished. I confess I do not know how you manage it with such equanimity.
+
+I watched what the Presidency did to my father. He gave everything to this country — his health, his fortune, his peace of mind — and the people turned him out after a single term. He went home to Quincy convinced that his sacrifices had been forgotten. I remember the look on his face. He told me his shoulders felt relieved of a burden, but I knew him too well to believe it entirely.
+
+Jackson will not rest. His people are already sharpening their knives. I may well follow my father's path — one term and out, the Adams inheritance.
+
+You have a quality I lack, Jim. You can take a blow and get back to work without brooding over the injustice of it. I am told I have a cold and forbidding manner, that I am an unsocial creature ill-suited to democratic politics. My diary agrees with this assessment. The people wanted a General; they will receive a scholar. I suspect they will resent the substitution.
+
+Perhaps they are right to. Perhaps I am not the man for this moment. But I am the man who was chosen, however imperfectly, and I will not pretend otherwise. History will render its verdict. I can only hope to give it something worth judging.
+
+Louisa asks me to convey her warm regards to you and to Taya.
+
+I remain, with sincere esteem and the warmest regard, ever faithfully your friend,`,
+    historicalContext: {
+      background: "The election of 1824 was the first in American history where no candidate won a majority of electoral votes, throwing the decision to the House of Representatives under the Twelfth Amendment. It was also the first election where the popular vote was widely recorded — and the first where the winner of that vote did not become president. The Constitution limited the House to choosing among the top three electoral vote-getters, which eliminated fourth-place finisher Henry Clay. But as Speaker of the House, Clay controlled the outcome anyway.",
+      keyFacts: [
+        "The House vote took place during a blizzard so severe that many representatives struggled to reach the Capitol; one congressman from North Carolina arrived just minutes before the roll was called",
+        "Each state delegation cast a single vote — meaning tiny Delaware had equal weight with populous New York",
+        "Stephen Van Rensselaer, a New York congressman, reportedly couldn't decide how to vote, bowed his head in prayer, opened his eyes, saw an Adams ballot on the floor, and took it as a sign from God",
+        "Clay had received instructions from the Kentucky legislature to support Jackson, but ignored them and delivered Kentucky's vote to Adams anyway",
+        "Jackson won the popular vote by more than 41,000 ballots — a margin that would be considered a landslide in modern elections",
+        "When the result was announced, a Jackson supporter shouted from the gallery: 'It is enough — the deed is done!' and had to be escorted out",
+        "No presidential election has been decided by the House of Representatives since"
+      ],
+      whatPresidentKnew: "Adams understood the precariousness of his position better than anyone. In his diary, he had written during the campaign: 'It seems as if every liar and calumniator in the Country was at work day and night to destroy my character.' He knew that appointing Clay as Secretary of State — then considered the stepping-stone to the presidency — would confirm every suspicion. But Clay was genuinely his first choice for the role, and Adams refused to let the appearance of impropriety dictate his Cabinet. 'I determined to give him the place,' Adams later wrote, describing the decision as one of 'duty' rather than payment. Historians have found no evidence of an explicit deal, but the political damage was done the moment Clay's name was announced.",
+      quote: {
+        text: "May the blessing of God rest upon the event of this day!",
+        attribution: "John Quincy Adams, diary entry, February 9, 1825"
+      }
+    },
+    signature: 'John Quincy Adams'
+  },
+
   // Week 5: Reagan — PUBLISH ~JAN 28, 2026
   {
     id: 'week-5-reagan',

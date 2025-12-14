@@ -178,6 +178,9 @@ Tell Claude: "Publish the Andrew Johnson letter"
 ### ~March 4, 2026 — Abraham Lincoln (Week 8)
 Tell Claude: "Publish the Lincoln letter"
 
+### ~March 31, 2026 — Lyndon B. Johnson (Week 9)
+Tell Claude: "Publish the LBJ letter"
+
 **To publish a letter:**
 1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
 2. Push to GitHub — Vercel auto-deploys
@@ -381,3 +384,11 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** Weather/sunshine opening, Stephen Douglas held his hat, folksy farmer anecdote, Taney/Dred Scott irony, "mystic chords" and "better angels," unfinished Capitol dome as promise, Mary reference
 - **Signature:** "A. Lincoln"
 - **Voice Notes:** Warm, humorous, storytelling, self-deprecating, folksy wisdom mixed with moral seriousness
+
+### Week 9: Lyndon B. Johnson
+- **Subject:** "I Tried to Get You on the Phone"
+- **Written From:** March 31, 1968 (announces withdrawal from race)
+- **Delivered:** ~March 31, 2026
+- **Key Elements:** Opens ribbing Jim about fly-fishing, Tet Offensive aftermath, McCarthy/RFK entering race, cold political arithmetic, "I like winning," Great Society vs. Vietnam tradeoff, profanity throughout
+- **Signature:** "Lyndon B. Johnson"
+- **Voice Notes:** Crude, profane, Texas directness, arm-twister, pragmatic to the bone

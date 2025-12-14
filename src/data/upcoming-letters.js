@@ -12,9 +12,60 @@
  * - JQA: ~February 9, 2026
  * - Andrew Johnson: ~February 24, 2026
  * - Lincoln: ~March 4, 2026
+ * - LBJ: ~March 31, 2026
  */
 
 export const upcomingLetters = [
+  // Week 9: Lyndon B. Johnson — PUBLISH ~MAR 31, 2026
+  {
+    id: 'week-9-lbj',
+    week: 9,
+    president: 'Lyndon B. Johnson',
+    writtenFrom: 'March 31, 1968',
+    eventTitle: 'LBJ Announces He Will Not Seek Reelection',
+    subject: "I Tried to Get You on the Phone",
+    letter: `Jim,
+
+I tried to get you on the phone this afternoon before I went on the air. My girl says, "Mr. President, he's out of town." Out of town, hell—you're off somewhere up to your knees in a river, fly-fishing, while I'm about to blow up the whole goddamn presidential race on television.
+
+That's you all over: when the country's coming apart at the seams, the Democrats' favorite numbers man is out chasing trout.
+
+You're not on my payroll, but you know this game as well as any man in it, so I'm going to talk to you plain.
+
+You saw the speech tonight. I went on television to talk about Vietnam—bombing limits, talks, all that—and then I dropped the line everybody will remember: I shall not seek and I will not accept the nomination of my party for another term.
+
+Folks will write history books about courage and conscience and all the high-minded words. You and I know there was another piece to it: the cold political arithmetic you live on. Tet hits, and the polls fall through the floor. McCarthy cuts me up in New Hampshire. Bobby jumps in, and half the party starts daydreaming about Camelot coming back. Every chart any decent pollster puts in front of me says the same thing: the longer this war goes, the less the country wants to hear from Lyndon Johnson.
+
+You're a Democrat who cares about winning, not just feeling righteous. Look at it from that angle. If I stay in, we drag this party through a bloody primary, maybe a split convention, and then try to face Nixon with the kids in the street and half our own people demoralized. If I step aside, at least I take my name off the ballot as a lightning rod, and maybe I buy enough space for somebody else to carry the banner without Vietnam written across their forehead in ten-foot letters.
+
+I've spent my life twisting arms in cloakrooms and counting votes in courthouses. I like winning. I liked '64 just fine. So don't think this was some saintly revelation. It damn well wasn't. It was me sitting here with the war maps and the poll numbers and the budget spreadsheets, asking your kind of question: what's the best use of the power I've got left?
+
+I can burn the next year trying to salvage my own campaign. Or I can use what's left of this office to push toward talks, cut back the bombing, keep the Great Society from being gutted while we're still fighting over rice paddies on the evening news. I can't do both. The country won't let me, and the numbers say so.
+
+You're one of those modern fellows who loves data and targeting and all that wizardry. Fine. Take a hard look at tonight from that lens. Sometimes the only winning move for a president—hell, for a party—is to get out of the way so the program has a chance to survive. That's what I did.
+
+You don't have to like my war to understand my choice. You just have to believe that a Democrat's job is to leave something standing when the shooting stops. I'm trying to do that, even if it means walking off the biggest stage in American politics in front of the whole damned country.
+
+You can tell me later if the numbers say I was right. For now, I'll settle for this: I made the call I can live with when the cameras are off and the house is quiet.`,
+    historicalContext: {
+      background: "By early 1968, more than 500,000 American troops were fighting in Vietnam, and the Johnson administration had been assuring the public that victory was within sight. Then came Tet. On January 30, 1968, during the Vietnamese Lunar New Year ceasefire, North Vietnamese and Viet Cong forces launched coordinated attacks on more than 100 cities and military installations across South Vietnam. Guerrillas breached the walls of the U.S. Embassy in Saigon. The ancient city of Hue fell and remained under communist control for nearly a month. Although American and South Vietnamese forces eventually repelled the offensive and inflicted massive casualties on the enemy, the images broadcast into American living rooms told a different story: this war was nowhere near over. Public support collapsed almost overnight.",
+      keyFacts: [
+        "The Tet Offensive killed roughly 4,000 American and South Vietnamese troops in its first weeks; communist losses exceeded 40,000, yet the damage to American morale proved irreversible",
+        "Before Tet, 62% of Americans believed the U.S. was 'making progress' in Vietnam; after Tet, that number fell below 35%",
+        "Eugene McCarthy, running as an antiwar candidate, won 42% of the vote against Johnson's 49% in the New Hampshire primary on March 12; four days later, Robert Kennedy entered the race",
+        "Walter Cronkite declared on CBS that the war was a 'stalemate'; Johnson reportedly said, 'If I've lost Cronkite, I've lost the American people'",
+        "Johnson kept the withdrawal announcement secret until the final moments; even his own Cabinet members were called during the broadcast to make sure they were watching",
+        "His approval rating jumped from 36% to 49% overnight after the speech"
+      ],
+      whatPresidentKnew: "Johnson had been considering withdrawal for months, perhaps years. Lady Bird had urged him not to run as early as 1967, worried about his health and the toll the war was taking. On the morning of March 31, she found him in his bedroom, crying, still in his pajamas. He attended Catholic Mass with his daughter Luci, then drove to Vice President Humphrey's home to tell him the news. That night, he delivered the speech without rehearsing the final paragraph, leaving his options open until the last possible moment. The decision was not entirely selfless: his doctors had warned him about his heart, and he feared dying in office as Woodrow Wilson and Franklin Roosevelt had been diminished by their final years. But it was also a cold political calculation. The polls showed him losing to Nixon, and he knew a brutal primary fight would tear the party apart. By stepping aside, he hoped to salvage both the peace talks and what remained of the Great Society. Johnson died of a heart attack on January 22, 1973, just four years after leaving office and days before the Vietnam peace agreement was signed.",
+      quote: {
+        text: "To say that we are mired in stalemate seems the only realistic, yet unsatisfactory, conclusion.",
+        attribution: "Walter Cronkite, CBS News special report on Vietnam, February 27, 1968"
+      }
+    },
+    signature: 'Lyndon B. Johnson'
+  },
+
   // Week 8: Abraham Lincoln — PUBLISH ~MAR 4, 2026
   {
     id: 'week-8-lincoln',

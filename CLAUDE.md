@@ -175,6 +175,9 @@ Tell Claude: "Publish the John Quincy Adams letter"
 ### ~February 24, 2026 — Andrew Johnson (Week 7)
 Tell Claude: "Publish the Andrew Johnson letter"
 
+### ~March 4, 2026 — Abraham Lincoln (Week 8)
+Tell Claude: "Publish the Lincoln letter"
+
 **To publish a letter:**
 1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
 2. Push to GitHub — Vercel auto-deploys
@@ -370,3 +373,11 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** Combative and defiant tone, profanity ("bullshit," "bastards"), Tenure of Office Act as trap, tailor's son class resentment, thirty-six senators will decide, fighting not begging
 - **Signature:** "Andrew Johnson"
 - **Voice Notes:** Coarse, stubborn, pugnacious, class-conscious, raw and angry
+
+### Week 8: Abraham Lincoln
+- **Subject:** "The Sun Came Out"
+- **Written From:** March 4, 1861 (First Inauguration)
+- **Delivered:** ~March 4, 2026
+- **Key Elements:** Weather/sunshine opening, Stephen Douglas held his hat, folksy farmer anecdote, Taney/Dred Scott irony, "mystic chords" and "better angels," unfinished Capitol dome as promise, Mary reference
+- **Signature:** "A. Lincoln"
+- **Voice Notes:** Warm, humorous, storytelling, self-deprecating, folksy wisdom mixed with moral seriousness

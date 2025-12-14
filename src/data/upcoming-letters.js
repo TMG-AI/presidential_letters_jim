@@ -11,9 +11,61 @@
  * - Reagan: ~January 28, 2026
  * - JQA: ~February 9, 2026
  * - Andrew Johnson: ~February 24, 2026
+ * - Lincoln: ~March 4, 2026
  */
 
 export const upcomingLetters = [
+  // Week 8: Abraham Lincoln — PUBLISH ~MAR 4, 2026
+  {
+    id: 'week-8-lincoln',
+    week: 8,
+    president: 'Abraham Lincoln',
+    writtenFrom: 'March 4, 1861',
+    eventTitle: 'Lincoln Takes the Oath',
+    subject: "The Sun Came Out",
+    letter: `Dear Messina,
+
+The sun came out this afternoon, which I take as a good omen, though I have never been much for omens. Mary would tell you I am too practical for my own good. Still, after a morning of gray skies and blowing dust, a little sunshine was welcome, and the crowds seemed to take heart from it.
+
+I have this day taken the oath as President of the United States. Stephen Douglas, of all people, held my hat while I spoke. If that is not a sign that the world has turned upside down, I do not know what is.
+
+You would look at the map and see only red warning lights. Seven of the Southern States have already resolved to leave the Union; others stand with their hand on the latch. Federal forts are surrounded, arsenals seized, and in many counties the word "Republican" is spoken as if it were a curse. If you were advising me, you would say that I inherit no ordinary difficulty, but a contest over whether the nation itself shall endure.
+
+I am reminded of the old farmer who said he wasn't greedy about land: he only wanted what joined his. The secessionists say much the same. They only want what is theirs. But the trouble is, what they claim as theirs belongs to all of us, and a man cannot tear off his own arm and call it independence.
+
+When I rose to deliver my Inaugural Address, my purpose was not to thrill a convention hall, but to steady a country half persuaded that the election of a man like me was cause for disunion. I tried to say two things at once: that I have no lawful right or intention to interfere with slavery where it exists, and that the Union is older than any of the States, and cannot be unmade by the displeasure of a portion of them. Whether I succeeded, time will tell. The papers will have their say by morning.
+
+Chief Justice Taney administered my oath. You will appreciate the irony. The author of the Dred Scott decision, the man who declared that a Negro has no rights a white man is bound to respect, stood before me with the Bible in his hands. I could not help thinking that we made an odd pair. But the Constitution does not ask the President and the Chief Justice to like one another. It only asks them to do their duty.
+
+You know how campaigns harden men's hearts. The months behind us have filled the air with charges and counter-charges: "Black Republican," "abolitionist," "usurper." The temptation is strong to answer injury with injury, to say to the seceding States, "Go then, and bear the consequences." But a president who gives up on half his country ceases to be a president and becomes merely the head of a faction. I have seen that kind of man. I do not intend to become one.
+
+So my strategy, this first day, is restraint. Hold the forts, but do not fire first. Enforce the laws, but do not yield to panic. Leave open every door for those who may yet come back, and speak in such a way that if peace fails, the world will know we did not exhaust our patience in a hurry.
+
+You trade in numbers: county returns, favorable ratings, demographic slices. My numbers tonight are different: how many States still fly the flag, how many regiments can be raised if it comes to war, how many weeks we have before events outrun our words. Yet I suspect we share one conviction: that leadership is less about satisfying one's most ardent supporters than about enlarging the circle of those willing to travel together.
+
+I closed my address with an appeal to the "mystic chords of memory" and the "better angels of our nature." Fine phrases, and I hope they are heard in the right spirit. But I am under no illusion that a single speech on a single March day will touch hearts that have already hardened. If those chords are to be struck, it will take a steady hand through storms yet unseen.
+
+The Capitol dome above me is still unfinished, the scaffolding plain for all to see. Some would call it an embarrassment. I choose to call it a promise. We are not yet completed, but we are still building.
+
+Your friend,`,
+    historicalContext: {
+      background: "By the time Lincoln took the oath of office, the nation had already fractured. Seven Southern states had seceded in the sixteen weeks between his election and inauguration, forming the Confederate States of America with Jefferson Davis as president. Lincoln had not yet set foot in the White House, and already a rival government claimed sovereignty over a third of the country. He traveled to Washington under threat of assassination, slipping through Baltimore in the middle of the night after detectives uncovered a plot to kill him. The city he entered was a garrison town, its streets patrolled by soldiers, its loyalties uncertain.",
+      keyFacts: [
+        "Sharpshooters crouched on rooftops along Pennsylvania Avenue with orders to fire on anyone who aimed at the presidential carriage; a battalion of Army engineers marched directly behind Lincoln",
+        "An eleven-year-old girl named Grace Bedell had written to Lincoln suggesting he grow a beard; this inauguration was the first time the public saw him with one",
+        "Lincoln's family Bible was still packed in a crate en route from Springfield, so he took the oath on a Bible provided by the clerk of the Supreme Court",
+        "The day after the inauguration, Lincoln received word that Fort Sumter could hold out only a few weeks without fresh supplies, forcing an immediate crisis",
+        "Seward had warned Lincoln that if he delivered the speech without changes, Virginia and Maryland would secede within sixty days and the Union would have to fight for possession of Washington itself"
+      ],
+      whatPresidentKnew: "Lincoln had written his inaugural address in the back room of his brother-in-law's store in Springfield, consulting just four documents: Henry Clay's 1850 compromise speech, Daniel Webster's reply to Hayne, Andrew Jackson's proclamation against nullification, and the Constitution. He knew his words had to thread a needle: firm enough to assert federal authority, conciliatory enough to keep the border states from joining the Confederacy. Seward thought the original draft too provocative and sent six pages of suggested revisions. Lincoln accepted some, rejected others, and transformed Seward's closing about the 'guardian angel of the nation' into his own 'better angels of our nature.' He also knew the man administering his oath, Chief Justice Roger Taney, had authored the Dred Scott decision declaring that Black Americans had 'no rights which the white man was bound to respect.' Lincoln had spent years arguing against that decision. Now Taney would swear him into office.",
+      quote: {
+        text: "We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection.",
+        attribution: "Abraham Lincoln, First Inaugural Address, March 4, 1861"
+      }
+    },
+    signature: 'A. Lincoln'
+  },
+
   // Week 7: Andrew Johnson — PUBLISH ~FEB 24, 2026
   {
     id: 'week-7-ajohnson',

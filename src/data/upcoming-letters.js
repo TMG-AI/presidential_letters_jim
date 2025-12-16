@@ -15,9 +15,63 @@
  * - LBJ: ~March 31, 2026
  * - Wilson: ~April 13, 2026
  * - Grant: ~April 20, 2026
+ * - Taft: ~May 21, 2026
  */
 
 export const upcomingLetters = [
+  // Week 12: William Howard Taft — PUBLISH ~MAY 21, 2026
+  {
+    id: 'week-12-taft',
+    week: 12,
+    president: 'William Howard Taft',
+    writtenFrom: 'May 21, 1909',
+    eventTitle: 'The Tariff Crisis and Nellie\'s Stroke',
+    subject: "I Need Your Help",
+    letter: `Dear Jim,
+
+Four days ago my world collapsed. Nellie suffered a severe stroke aboard the Sylph on the Potomac. She is alive, thank God, but she cannot speak. She cannot move her right arm. The doctors offer hope but no promises. And I am left to run this government alone, which is something I never intended to do.
+
+You do not know Nellie well, Jim, but you should know this: she decided at seventeen years old that she wanted to be First Lady. Not because she wanted the glamour—she wanted the power of it. She wanted to shape things. When I told her, years ago, that I dreamed of being Chief Justice, she said no. She said I was to be President. I did not want it then. I do not particularly want it now. But she wanted it, and so I ran, and here I am. And now she is gone from me in every way that matters.
+
+What makes this worse—what makes it nearly unbearable—is the timing. You know about Aldrich and the Senate. You know what he has done to the tariff bill. What should have been a modest reform has become a travesty. The progressive senators are furious. La Follette is threatening to bolt the party. The farmers are betrayed, and I came to this office promising reform.
+
+This is where you come in, Jim, and this is where Nellie would have been indispensable.
+
+She understood—in a way I have never quite mastered—how to move men without appearing to move them. She knew which senators could be reasoned with, which ones were theater, which ones actually held the votes we needed. She had the instinct for it. I have the legal mind; she had the political one. We were partners, and now I am alone.
+
+The Senate debate is still raging. Aldrich thinks he has the votes locked, but La Follette and the progressives are fighting every amendment. There may still be time to salvage something—or at least to know which of our allies will stand and which will fold. I need you to do what Nellie would have done. I need you to go to the progressive senators—the ones in the Midwest and West who actually believe in this reform. La Follette, Bristow, Dolliver, and the others. You know this country better than I do. You know the men who came up through the fight, not the ones handed power by their fathers.
+
+I need to know which of them can be held. Which ones will break. Which ones are posturing and which ones will actually walk away from the party if Aldrich pushes them too hard. I need to know if there are enough votes to force real amendments, or if we are simply watching a performance before the inevitable collapse.
+
+The worst part of this—the part that keeps me awake—is that Nellie would know, and I do not. She would know whether to fight Aldrich openly or work around him quietly. She would know whether to call the progressive Republicans together or let them think this is their victory. She understood that power is not about being right; it is about knowing what men will do when they are cornered.
+
+Nellie is forty-seven years old and paralyzed in the residence upstairs. Our son Charlie had surgery the morning she collapsed—he is recovering, thank God, but it was a terrible morning. I have not slept more than an hour at a time since. The fear that I will lose her entirely weighs on me constantly.
+
+I will telephone you at noon tomorrow if I may. I need your voice, not letters. I need to know whether you can come to Washington to help me navigate this. The Senate fight may already be lost, but I would rather lose it knowing I did everything possible than lose it wondering if Nellie could have saved it.
+
+Come if you can, Jim. I need someone who understands what we are fighting for, and why it matters that we try.
+
+Yours in difficult times,`,
+    historicalContext: {
+      background: "William Howard Taft was in crisis on multiple fronts in May 1909. Just two months into his presidency, Senator Nelson Aldrich, the powerful Republican leader, had transformed Taft's mild tariff reform bill into a corporate-friendly measure that raised many rates instead of lowering them. Progressive Republicans like Robert La Follette of Wisconsin and Jonathan Dolliver of Iowa were furious, seeing Taft as weak or complicit in betraying the reform agenda he had promised. The timing was catastrophic: on May 17, 1909, Taft's wife Nellie—who had dreamed of being First Lady since age seventeen and had essentially pushed her reluctant husband into the presidency—suffered a severe stroke aboard the presidential yacht Sylph during a Potomac River cruise. She lost her ability to speak and suffered partial paralysis on her right side. Taft was devastated both personally and politically. Nellie had been his closest political advisor and strategic mind; without her counsel, he felt adrift.",
+      keyFacts: [
+        "Nellie Taft collapsed on May 17, 1909, during a Potomac River cruise; the White House publicly blamed 'heat exhaustion' but she had suffered a major stroke that left her unable to speak or move her right side",
+        "Senator Aldrich made nearly 900 revisions to the tariff bill, including increases in 600 rates, consulting with industry lobbyists throughout the spring and summer",
+        "La Follette mounted a lengthy examination of the bill's complex wording, exposing its protectionist nature to the public despite Aldrich's efforts to prevent review",
+        "The Senate passed the bill in early July, 45-34, without the support of progressive Republicans or most Democrats",
+        "Taft signed the Payne-Aldrich Tariff on August 6, 1909; his acceptance of it cost him the progressive wing of his party",
+        "Nellie did not fully return to public life until their silver anniversary party in June 1911, more than two years after her stroke",
+        "The tariff fight was the first crack in the Republican Party that would split wide open in 1912, when Theodore Roosevelt challenged Taft for the nomination"
+      ],
+      whatPresidentKnew: "Taft knew he was caught between his own progressive instincts and the conservative Republican establishment. He had promised tariff reform during his campaign, but Aldrich controlled the Senate. On May 21, 1909, the Senate debate was still raging; La Follette and the insurgents were fighting Aldrich's amendments line by line. Taft also knew something the public did not: the severity of Nellie's condition. The White House maintained the fiction that she had suffered 'heat exhaustion,' but Taft understood he had lost his most trusted political counselor at the worst possible moment. Without Nellie's strategic mind—she knew which senators could be reasoned with, which were theater, which held the real votes—Taft felt paralyzed. He later reflected that the tariff fight weakened his presidency irreparably.",
+      quote: {
+        text: "I don't remember that I ever was President.",
+        attribution: "William Howard Taft, after becoming Chief Justice in the 1920s"
+      }
+    },
+    signature: 'William H. Taft'
+  },
+
   // Week 11: Ulysses S. Grant — PUBLISH ~APR 20, 2026
   {
     id: 'week-11-grant',

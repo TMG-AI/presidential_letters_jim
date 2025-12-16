@@ -13,9 +13,70 @@
  * - Andrew Johnson: ~February 24, 2026
  * - Lincoln: ~March 4, 2026
  * - LBJ: ~March 31, 2026
+ * - Wilson: ~April 13, 2026
  */
 
 export const upcomingLetters = [
+  // Week 10: Woodrow Wilson — PUBLISH ~APR 13, 2026
+  {
+    id: 'week-10-wilson',
+    week: 10,
+    president: 'Woodrow Wilson',
+    writtenFrom: 'April 13, 1917',
+    eventTitle: 'One Week After Declaring War',
+    subject: "A Favor to Ask",
+    letter: `My dear Mr. Messina,
+
+I am having this note sent round to your rooms because Edward House insists I ought to know you better, and because I find myself in need of the kind of advice you are said to give.
+
+House calls you "the man who reads precincts the way seminarians read scripture." Coming from a Texan who has spent thirty years counting votes he never cast himself, that is high praise. He tells me you have connections in Montana and throughout the mountain West, and that you understand how working people think about politics in ways that elude men like me who have spent too long in lecture halls.
+
+I would be grateful if you could call at the White House on Friday afternoon. We can speak privately, and if the weather holds, perhaps take in a few innings at the ballpark afterward. The Senators open their season on the twentieth, and I confess I have not missed an Opening Day since I came to Washington. A man needs something to think about besides war, even if he can only manage it for an hour or two.
+
+That is the invitation. Now let me tell you why I need your help.
+
+One week ago I signed the declaration of war against Germany. The newspapers say the nation is united. I am not so certain.
+
+Miss Rankin of Montana voted no. "I cannot vote for war," she said, and the galleries wept or jeered depending on their sympathies. She is the first woman to sit in Congress, and she used her first great vote to stand against the tide. The papers are savaging her. But I wonder: does she speak for more of your Montana than the editors would like to admit? The farmers, the ranchers, the men who see no reason to send their sons to die in France for quarrels that are not their own—how many of them are with me, and how many are simply quiet?
+
+I need to know what the West is thinking. Not what the party chairmen tell me, but what you hear in the places where men speak plainly. House says you are the man to ask.
+
+There is another matter. We will need money for this war—more than the Treasury can raise through ordinary means. Secretary McAdoo is preparing a campaign for Liberty Bonds, and we must sell them not to bankers alone but to schoolteachers and factory workers and wheat farmers. I know how to give a speech. I do not know how to sell a bond to a man who wonders whether this war is any of his business. You do.
+
+I will not pretend I come to this naturally. House has told me more than once that I am too much the professor, too fond of my own reasoning, too certain that a well-constructed argument will carry the day. He is probably right. I seem to have a gift for driving away the men who might otherwise help me carry these burdens. That is why I am writing to you instead of summoning another academic to tell me what I wish to hear.
+
+You deal in facts for a living. You count them up and tell men what they mean. I have been counting too: each note exchanged with Berlin, each ship destroyed, each new evidence that the German government meant to carry its will through by force alone. And then that grotesque telegram proposing to hand Mexico the return of Texas and Arizona if they would make war on us. The arithmetic finally defeated me. There was no honorable way to stay out.
+
+I know this in my mind. My conscience is less certain.
+
+"The world must be made safe for democracy." I said it to the Congress, and I meant it, and I would say it again. But a democracy cannot send its sons to die for shipping lanes alone. It must believe, and must be given reason to believe, that the sacrifice serves something larger than commerce. That is what I was trying to do when I spoke those words. Whether I succeeded, whether the country truly believes it or merely wishes to believe it, I cannot say. Perhaps you can tell me.
+
+La Follette spoke for four hours against the resolution. Fifty members of the House voted no. I do not begrudge them their dissent. A democracy must have room for those who say no, even when the majority has spoken. What troubles me is simpler: what if they are right? I will not indulge that question in public. A President who sends men to war and then wonders aloud whether he should have done so is worse than useless. But I can ask it here, in a letter to a man who understands that politics is not all conviction. Sometimes it is just the best guess we can make with imperfect information and insufficient time.
+
+The mobilization is underway. We will raise an army, build ships, feed the Allies. I will do the work and do it well, because that is what remains to me now that the decision is made. But I wanted you to know, before we meet, that the man who made it is not the marble statue the newspapers describe. He is tired, and uncertain at hours he would not admit to the Congress.
+
+Friday, then. My secretary will confirm the hour. House tells me you are a Yankees man. I will try not to hold it against you.
+
+With sincere regard,`,
+    historicalContext: {
+      background: "For nearly three years, Woodrow Wilson had kept the United States out of the war engulfing Europe. He won reelection in 1916 on the implicit promise that he would continue to do so. But Germany's resumption of unrestricted submarine warfare in February 1917, followed by the revelation of the Zimmermann Telegram proposing a German-Mexican alliance against the United States, made neutrality untenable. On April 2, Wilson asked Congress to declare war. Four days later, he signed the declaration. The nation that had prided itself on standing apart from Old World quarrels was now a belligerent power.",
+      keyFacts: [
+        "Colonel Edward House was Wilson's most trusted advisor and political fixer, a wealthy Texan who never held office but wielded enormous influence; Wilson called him 'my second personality' and 'my independent self'",
+        "Wilson was so devoted to baseball that he had a room in the White House called 'the dugout' where he could talk about the game without boring guests who weren't interested",
+        "He attended more baseball games than any president before or since, often keeping score with a pencil and watching through opera glasses",
+        "Jeannette Rankin wept openly as she voted against the war declaration; she was the only member of Congress to vote no on both World Wars",
+        "The First Liberty Bond drive launched two weeks after the declaration, eventually raising $2 billion",
+        "Wilson had been a professor and university president before entering politics; he surrounded himself with academics and intellectuals, later forming 'The Inquiry,' a secret group of scholars who helped plan the postwar world"
+      ],
+      whatPresidentKnew: "Wilson understood that the mountain West and rural America were far less enthusiastic about war than the Eastern establishment. Farmers saw no reason to die for European quarrels; German-American communities opposed fighting the fatherland; progressives feared war would destroy domestic reform. Wilson also knew his own limitations. He was an academic by training, more comfortable with ideas than with the rough work of political persuasion. That was why he relied so heavily on Colonel House, who handled the backroom negotiations and political intelligence that Wilson found distasteful. In the week after signing the declaration, Wilson struggled with insomnia and what he later described to friends as a profound sense of dread. He told a White House aide on the night of April 2: 'How strange it seems to applaud a message of death for our young men.'",
+      quote: {
+        text: "Mr. House is my second personality. He is my independent self. His thoughts and mine are one.",
+        attribution: "Woodrow Wilson on Colonel Edward House"
+      }
+    },
+    signature: 'Woodrow Wilson'
+  },
+
   // Week 9: Lyndon B. Johnson — PUBLISH ~MAR 31, 2026
   {
     id: 'week-9-lbj',

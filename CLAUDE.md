@@ -1,6 +1,6 @@
 # Presidential Inbox — Session Notes
 
-**Last Updated:** December 12, 2025
+**Last Updated:** December 15, 2025
 
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
@@ -180,6 +180,9 @@ Tell Claude: "Publish the Lincoln letter"
 
 ### ~March 31, 2026 — Lyndon B. Johnson (Week 9)
 Tell Claude: "Publish the LBJ letter"
+
+### ~April 13, 2026 — Woodrow Wilson (Week 10)
+Tell Claude: "Publish the Wilson letter"
 
 **To publish a letter:**
 1. Move the letter object from `upcoming-letters.js` to `letters.js` (add to BEGINNING of array)
@@ -392,3 +395,11 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** Opens ribbing Jim about fly-fishing, Tet Offensive aftermath, McCarthy/RFK entering race, cold political arithmetic, "I like winning," Great Society vs. Vietnam tradeoff, profanity throughout
 - **Signature:** "Lyndon B. Johnson"
 - **Voice Notes:** Crude, profane, Texas directness, arm-twister, pragmatic to the bone
+
+### Week 10: Woodrow Wilson
+- **Subject:** "A Favor to Ask"
+- **Written From:** April 13, 1917 (one week after declaring war on Germany)
+- **Delivered:** ~April 13, 2026
+- **Key Elements:** Colonel Edward House as intermediary/connection to Jim, asking Jim for political intel on Montana/Western states and Liberty Bond reception, baseball connection (Wilson devotee, Jim Yankees fan), Opening Day invitation, "We may be last in the American League, but at least we are first in something" joke (references famous Senators quip), Jeannette Rankin weeping as she voted no
+- **Signature:** "Woodrow Wilson"
+- **Voice Notes:** Formal academic prose, lonely and needing validation, self-doubt mixed with conviction, baseball fanatic, professor-turned-president

@@ -14,9 +14,61 @@
  * - Lincoln: ~March 4, 2026
  * - LBJ: ~March 31, 2026
  * - Wilson: ~April 13, 2026
+ * - Grant: ~April 20, 2026
  */
 
 export const upcomingLetters = [
+  // Week 11: Ulysses S. Grant — PUBLISH ~APR 20, 2026
+  {
+    id: 'week-11-grant',
+    week: 11,
+    president: 'Ulysses S. Grant',
+    writtenFrom: 'April 20, 1871',
+    eventTitle: 'Grant Signs the Ku Klux Klan Act',
+    subject: "Following Up on What You Asked",
+    letter: `Dear Jim,
+
+I signed it this morning. The Ku Klux Klan Act. You asked me three days ago if I was prepared to do what this thing actually requires. I said yes. Now I'm writing to tell you I meant it, and to tell you what comes next—and what it will cost you.
+
+You were right about South Carolina. Your affidavits, the testimony from the freedmen, the lists of murdered men—I read them all. I knew things were bad. I didn't know they were that bad. Night riders hanging Union supporters. Freedmen shot for registering to vote. Judges too frightened to convene courts. I've fought this country's wars, Jim, and I know what violence looks like. What you showed me looked like war conducted on civilian ground by men too cowardly to wear uniforms.
+
+So I signed the Act. It gives me the power to do what has to be done. Federal troops where state governments have failed. Habeas corpus suspended where necessary. Federal marshals with teeth. We will not ask South Carolina's permission. We will enforce the Fourteenth and Fifteenth Amendments because the Constitution demands it, and because the blood that was spilled to win this war does not deserve to be spilled for nothing.
+
+But I'll be plain with you. This will not be easy. Some in Congress will call it overreach. Newspapers may accuse me of going too far. I don't know how my own party will hold. I hope the country understands why this is necessary, but I can't be certain. What I am certain of is this: the Constitution demands it, and the blood that was spilled to win this war does not deserve to be spilled for nothing.
+
+You will be the one in those counties. You'll be the one collecting evidence from frightened witnesses. You'll be the one coordinating with the marshals. You'll sit in rooms with judges who fear the Klan more than they respect the law, and you'll have to make them understand that fear has no jurisdiction anymore. That's not the glory work. That's the work nobody wants to do, and everybody will blame you for doing it anyway.
+
+I need to know you understand what I'm asking. I'm asking you to go into hostile ground and hold the line until we can get soldiers in place. I'm asking you to take the anger that will come your way—from cowardly men who want things to stay as they are, from people who think federal enforcement is overreach, from Southerners who see you as an occupier. You'll receive it all. And I can only tell you that you're right to do it.
+
+You asked me if I was ready. Now I'm asking you if you are. Because the law doesn't enforce itself. The Constitution doesn't defend itself. Men do. Difficult men. Unpopular men. Men willing to be called things they don't deserve to be called because the work demands it.
+
+I know what it is to bear unpopularity. I don't enjoy it. I wouldn't choose it. But I've never yet backed away from a hard thing that needed doing, and I don't intend to start now.
+
+If you want to discuss how to move the marshals in, how to coordinate with the Bureau's people on the ground, what kind of protection you need—I'm prepared to meet you on this. Not as the President meeting a subordinate. As a man who knows what burden you're about to carry.
+
+Write back and tell me you understand. Tell me what you need. And then tell me you're ready to do this.
+
+Yours in the work that has to be done,`,
+    historicalContext: {
+      background: "By 1871, the Ku Klux Klan had launched one of the worst campaigns of domestic terrorism in American history. In South Carolina's upcountry, night riders rode almost nightly, forcing their way into the homes of freedmen, interrogating them about their political activities, demanding they renounce the Republican Party, then whipping, beating, or murdering them. Women were raped. Houses and barns were burned. Congressional hearings documented 227 whippings in Spartanburg County alone. Judges were too frightened to convene courts. The state's Reconstruction government was under siege.",
+      keyFacts: [
+        "The Ku Klux Klan Act was the third Enforcement Act in a year — Congress had been escalating its response as Klan violence grew",
+        "Over seven months in 1871, Congress heard testimony from freedmen across the South; the hearings filled 8,000 pages",
+        "Attorney General Amos Akerman, a former Confederate who became a fierce defender of Black civil rights, would personally lead U.S. Marshals into South Carolina in October",
+        "When Grant suspended habeas corpus in nine South Carolina counties in October, more than 600 men were arrested by year's end; 2,000 Klansmen fled the state",
+        "The prosecutions were so successful that the Klan was destroyed in South Carolina and decimated throughout the South; it would not exist again until its revival in 1915",
+        "Akerman indicted 3,000 Klan members and won 600 convictions before being forced to resign in December 1871 — railroad interests opposed his focus on civil rights",
+        "Mark Twain praised Grant's writing for 'clarity of statement, directness, simplicity, unpretentiousness, manifest truthfulness, fairness and justice toward friend and foe alike, soldierly candor and frankness, and soldierly avoidance of flowery speech'"
+      ],
+      whatPresidentKnew: "Grant had received detailed reports from South Carolina. Governor Robert Scott had requested federal troops in March 1871. Grant also had access to the Congressional testimony being gathered, which included harrowing accounts from freedmen describing rapes, murders, and forced exile. Grant was a man who had commanded armies and seen violence firsthand; what distinguished his response to the Klan was his recognition that this was not random lawlessness but organized warfare against the Constitution. He later wrote: 'The Ku Klux Klan... took the place of the rebel army.' Grant understood that defeating the Klan would require the same tools he had used in war: troops, suspension of civil liberties where necessary, and relentless prosecution.",
+      quote: {
+        text: "The power of the Ku Klux Klan is supreme in all those counties, and can only be suppressed by the arm of the United States Government.",
+        attribution: "Governor Robert Scott of South Carolina to President Grant, March 1871"
+      }
+    },
+    signature: 'U.S. Grant'
+  },
+
   // Week 10: Woodrow Wilson — PUBLISH ~APR 13, 2026
   {
     id: 'week-10-wilson',

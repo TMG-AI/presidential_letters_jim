@@ -89,7 +89,7 @@ export const LetterCard = ({ letter }) => {
                     First Lady of the United States
                   </p>
                 )}
-                <h3 className="font-display text-2xl sm:text-3xl font-semibold text-primary mb-2">
+                <h3 className="font-display text-2xl sm:text-3xl font-semibold text-primary mb-2 min-h-[4rem] sm:min-h-[4.5rem]">
                   {letter.president}
                 </h3>
                 <p className="text-sm text-muted-foreground">

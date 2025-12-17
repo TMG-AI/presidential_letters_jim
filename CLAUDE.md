@@ -1,6 +1,6 @@
 # Presidential Inbox — Session Notes
 
-**Last Updated:** December 15, 2025
+**Last Updated:** December 17, 2025
 
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
@@ -141,24 +141,30 @@ Before finalizing any letter:
 - [x] FDR letter (Week 1) — fixed Rankin 1917 reference
 - [x] Nixon letter (Week 2)
 - [x] Pushed to GitHub
-
-### Pending Changes (NOT YET PUSHED)
-- Enhanced historical context for both FDR and Nixon letters with unique facts
-- Added Eleanor Roosevelt's recollections to FDR "What the President Knew"
-- Added Nixon tape quotes about civilian casualties to Nixon "What the President Knew"
-- Added Historical Context Guidelines section to this file
+- [x] Deploy to Vercel — DONE
+- [x] **NEW UI from presidential-penpals (Dec 17, 2025)**
+  - Framer Motion animations
+  - React Router for navigation
+  - New components: WaxSeal, PresidentialSeal, HeroSection, LetterCard, LettersGallery, Footer
+  - Pages: Index, Letter, Archive, NotFound
+  - Parchment/gold/navy color theme
+- [x] **Launch setup (Dec 17, 2025)**
+  - Both FDR and Nixon letters now live in `letters.js` (FDR first, then Nixon)
+  - Removed Nixon from `upcoming-letters.js`
+  - Homepage shows grid of letter cards (up to 8, then archive link)
+  - Header shows "Your First Two Letters Have Arrived"
+  - Tagline changed to "Letters from the White House"
+  - Nixon eventTitle changed to "After the Christmas Bombing" (not Linebacker II)
+  - Fixed card alignment with min-height on president names
+  - Removed Jim Messina auto-linking issue (pointer-events-none)
 
 ### Not Yet Done
-- [x] Deploy to Vercel — DONE
-- [ ] Draft launch email for Jim (Dec 18) — draft provided in chat
+- [ ] Draft launch email for Jim (Dec 18) — draft revised in chat
 - [ ] Set up email notifications (decided to use Gmail scheduled sends)
 
 ## SCHEDULED PUBLISH DATES
 
 **Letters are in `src/data/upcoming-letters.js`**
-
-### December 31, 2025 — Nixon (Week 2)
-Tell Claude: "Publish the Nixon letter"
 
 ### ~January 7-8, 2026 — Washington (Week 3)
 Tell Claude: "Publish the Washington letter"
@@ -190,8 +196,14 @@ Tell Claude: "Publish the Wilson letter"
 3. Send Jim an email that a new letter arrived
 
 ## Key Files
-- `src/data/letters.js` — **ADD NEW LETTERS HERE** (newest first in array)
-- `src/components/PresidentialInbox.jsx` — Main UI component
+- `src/data/letters.js` — **PUBLISHED LETTERS** (FDR and Nixon currently live)
+- `src/data/upcoming-letters.js` — **UNPUBLISHED LETTERS** (Washington through Grace Coolidge)
+- `src/components/LettersGallery.jsx` — Homepage letter cards grid
+- `src/components/LetterCard.jsx` — Individual letter card component
+- `src/components/HeroSection.jsx` — Homepage hero with presidential seal
+- `src/pages/Letter.jsx` — Full letter view page
+- `src/pages/Index.jsx` — Homepage
+- `src/index.css` — All custom CSS and theme variables
 - `index.html` — Page title and meta
 
 ## Adding New Letters
@@ -203,9 +215,12 @@ Just say: "Add week X letter for [President Name]" and provide:
 - Historical context (background, keyFacts, whatPresidentKnew, quote)
 - Signature
 
-## December 18 Launch Email (Draft)
+## December 18 Launch Email (Draft - REVISED)
 
-**Subject:** `FDR wrote you a letter`
+**Subject options:**
+- `FDR wrote you a letter`
+- `Two letters from the White House`
+- `A letter from the Oval Office`
 
 **Body:**
 ```
@@ -213,30 +228,29 @@ Jim,
 
 I made something for you.
 
-You and I share a love of history — the moments that shaped the country, the leaders who navigated them, and the impossible decisions they faced. So I built you an experience: letters from American presidents, written directly to you.
+You and I share a love of history: the moments that shaped the country, the leaders who navigated them, and the impossible decisions they faced. So I built you an experience: letters from the White House, written directly to you.
 
-Every so often, a different president writes to you as if you're a close friend and trusted confidant. They know your character — your Montana roots, your pragmatism, your reputation as The Fixer. They write from the middle of their defining moments, sharing what they couldn't say publicly.
+Every so often, a different figure from presidential history writes to you as if you're a close friend and trusted political advisor. They know your character: your Montana roots, your pragmatism, your reputation as The Fixer. They write from the middle of their defining moments, sharing what they couldn't say publicly.
 
-The first letter is from Franklin D. Roosevelt, writing eleven days after Pearl Harbor:
+Your first two letters are waiting:
 
----
+**Franklin D. Roosevelt** — eleven days after Pearl Harbor
+**Richard Nixon** — New Year's Eve 1972, after the Christmas bombing
 
-My dear Jim,
+Click "Show Historical Context" at the bottom of each letter for the fascinating details behind the moment.
 
-Eleanor tells me you've been asking after us — bless you for that. I should have written sooner, but these past eleven days have been unlike anything I've experienced in public life, and I find myself only now able to put pen to paper with any coherence...
+This is what AI can do for us history geeks: not replace the scholarship, but bring it to life in ways that weren't possible before. New letters will arrive throughout the year.
 
----
-
-[Read the full letter →](YOUR-VERCEL-URL)
-
-This is what AI can do for us history geeks — not replace the scholarship, but bring it to life in ways that weren't possible before.
-
-Consider this your holiday gift from one history nerd to another. Merry Christmas, my friend.
-
+Happy holidays,
 Shannon
 
-P.S. New letters will show up from time to time. I'll let you know when one arrives.
+[Link to site]
 ```
+
+**Notes on email:**
+- Changed "American presidents" to "the White House" / "figure from presidential history" to leave room for Grace Coolidge and other non-president writers
+- Removed em dashes per style guidelines
+- Lists both letters with punchy one-line descriptions
 
 ## Technical Notes
 - App shows letter whose month/day is closest to today's date

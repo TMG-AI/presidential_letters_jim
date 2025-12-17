@@ -51,19 +51,10 @@ export const HeroSection = () => {
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.6 }}
-              className="font-display text-xl sm:text-2xl text-[hsl(220_30%_28%)] mb-4"
+              className="font-display text-xl sm:text-2xl text-[hsl(220_30%_28%)]"
             >
               Presidential Letters Through History
             </motion.h2>
-
-            <motion.p
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 0.7 }}
-              className="font-body text-base sm:text-lg text-muted-foreground max-w-lg leading-relaxed"
-            >
-              Personal correspondence from America's leaders, written as if you stood among them during history's most pivotal moments.
-            </motion.p>
           </div>
         </div>
       </div>

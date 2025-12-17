@@ -63,19 +63,19 @@ export const LetterCard = ({ letter }) => {
   const lastNameInitial = letter.president.split(' ').pop()?.charAt(0) || 'P';
 
   return (
-    <Link to={`/letter/${letter.id}`}>
+    <Link to={`/letter/${letter.id}`} className="block h-full">
       <motion.article
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.3 }}
         whileHover={{ y: -8, transition: { duration: 0.2 } }}
-        className="group cursor-pointer w-full max-w-lg mx-auto"
+        className="group cursor-pointer w-full max-w-lg mx-auto h-full"
       >
-        <div className="relative bg-card paper-texture rounded-sm shadow-letter overflow-hidden transition-shadow duration-300 group-hover:shadow-xl">
+        <div className="relative bg-card paper-texture rounded-sm shadow-letter overflow-hidden transition-shadow duration-300 group-hover:shadow-xl h-full flex flex-col">
           {/* Top decorative border */}
           <div className="h-1.5 bg-gold-gradient" />
 
-          <div className="p-8 sm:p-12">
+          <div className="p-8 sm:p-12 flex-1 flex flex-col">
             {/* Header */}
             <div className="flex items-start justify-between gap-4 mb-8">
               <div className="flex-1">
@@ -118,7 +118,7 @@ export const LetterCard = ({ letter }) => {
             <div className="my-8 h-px w-full bg-gradient-to-r from-transparent via-[hsl(43_70%_47%_/_0.4)] to-transparent" />
 
             {/* Letter preview */}
-            <div className="relative">
+            <div className="relative flex-1">
               <p className="font-body text-lg text-ink leading-relaxed line-clamp-4" style={{ opacity: 0.8 }}>
                 "{previewText.substring(0, 200)}..."
               </p>
@@ -128,7 +128,7 @@ export const LetterCard = ({ letter }) => {
             </div>
 
             {/* Read more */}
-            <div className="mt-8 flex items-center justify-center gap-3 text-gold group-hover:text-gold-dark transition-colors">
+            <div className="mt-8 flex items-center justify-center gap-3 text-gold group-hover:text-gold-dark transition-colors mt-auto">
               <motion.span
                 initial={{ x: 0 }}
                 animate={{ x: [-4, 0, -4] }}

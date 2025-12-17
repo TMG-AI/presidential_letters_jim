@@ -16,9 +16,57 @@
  * - Wilson: ~April 13, 2026
  * - Grant: ~April 20, 2026
  * - Taft: ~May 21, 2026
+ * - Grace Coolidge: ~June 11, 2026
  */
 
 export const upcomingLetters = [
+  // Week 13: Grace Coolidge — PUBLISH ~JUN 11, 2026
+  {
+    id: 'week-13-grace-coolidge',
+    week: 13,
+    president: 'Grace Coolidge',
+    writtenFrom: 'June 11, 1927',
+    eventTitle: 'Welcoming Lindbergh Home',
+    subject: "Today at the Monument",
+    letter: `Dear Jim,
+
+Taya mentioned that you still keep up with aviation, so I wanted to write while the day is fresh.
+
+Two hundred thousand people came to the Monument this afternoon. Colonel Lindbergh stood on the platform while my husband pinned the Distinguished Flying Cross to his coat — the first one ever awarded. Then Calvin stepped aside and let the young man have the crowd. You know my husband. He does not reach for what is not his.
+
+I watched Lindbergh during the ceremony. He is shy. Genuinely so. When the cheering started, he looked like he wanted to climb back into his airplane. He has turned down half a million dollars from Hearst to make pictures. He keeps saying no to everything. I find that remarkable in someone so young.
+
+He reminded me of the boys I used to teach at Clarke — the ones who watched the world more carefully than most because they had to.
+
+When you visited us in Northampton in 1920, you brought young Calvin that model of the Jenny for his twelfth birthday. You know how he was about new things — anything mechanical, anything that seemed impossible a few years before. The two of you sat on the porch talking about how the engine worked, how a man could stay up in the air at all. He asked you a hundred questions. You answered every one. He kept that model on his desk for years.
+
+Standing at the Monument today, watching a young aviator accept the nation's gratitude, I thought of that afternoon. I thought of the boy who built model airplanes and asked too many questions. Calvin does not speak of it. I am not sure he can. But I wanted you to know that the memory is a good one, even now. Especially now.
+
+The ceremony was everything it should have been. The country needed a hero who had actually done something, and Lindbergh gave them that. I think even my husband was moved, though he would never say so.
+
+Give Taya my love. Come see us in the fall.
+
+Affectionately,`,
+    historicalContext: {
+      background: "On May 20-21, 1927, Charles Lindbergh flew solo and nonstop from New York to Paris in his single-engine monoplane, the Spirit of St. Louis, completing the first transatlantic flight and instantly becoming a global celebrity. When Lindbergh returned home, President Calvin Coolidge welcomed him to Washington on June 11, 1927, at a ceremony on the Washington Monument grounds that drew over 200,000 people. The event was broadcast live on radio to an estimated 30 million Americans across 50 stations — one of the first nationwide media events in history.",
+      keyFacts: [
+        "Lindbergh was genuinely shy and modest; he refused a $500,000 offer from William Randolph Hearst to make movies and declined countless commercial endorsements",
+        "Coolidge praised Lindbergh's 'absence of self-acclaim, his refusal to become commercialized' — qualities that resonated with Coolidge's own austere character",
+        "Lindbergh had started his flying career as a barnstormer in 1923, buying a surplus Curtiss JN-4 'Jenny' and performing at county fairs across the Midwest",
+        "The 'Jenny' was the iconic airplane of the 1920s barnstorming era — nearly 7,000 were built as WWI trainers and sold as surplus for as little as $200",
+        "Grace Coolidge was a former teacher of deaf children at the Clarke School in Northampton; she was known for her warmth and charm, a striking contrast to her taciturn husband",
+        "Three years before the Lindbergh ceremony, the Coolidges' younger son Calvin Jr. died at age sixteen from blood poisoning caused by a blister he developed playing tennis on the White House courts",
+        "Coolidge never recovered from his son's death; he wrote in his autobiography: 'When he went, the power and the glory of the Presidency went with him'"
+      ],
+      whatPresidentKnew: "The loss of their son Calvin Jr. in July 1924 had changed both Coolidges profoundly. John, their elder son, later said the death 'produced a depression in President Coolidge that lasted the rest of his life.' The president, already famously taciturn, withdrew further into himself. Grace, by contrast, channeled her grief into her public duties and her lifelong advocacy for deaf education. Standing on that platform watching a young aviator be celebrated by the nation, both parents would have been acutely aware of the boy who was not there — the sixteen-year-old who had loved anything mechanical and new, and who died from a blister on his foot three years before Lindbergh landed in Paris.",
+      quote: {
+        text: "I do not know why such a price was exacted for occupying the White House.",
+        attribution: "Calvin Coolidge, on the death of his son"
+      }
+    },
+    signature: 'Grace'
+  },
+
   // Week 12: William Howard Taft — PUBLISH ~MAY 21, 2026
   {
     id: 'week-12-taft',

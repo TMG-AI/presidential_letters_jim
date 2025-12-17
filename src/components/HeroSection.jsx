@@ -53,7 +53,7 @@ export const HeroSection = () => {
               transition={{ delay: 0.6 }}
               className="font-display text-xl sm:text-2xl text-[hsl(220_30%_28%)]"
             >
-              Presidential Letters Through History
+              Letters from the White House
             </motion.h2>
           </div>
         </div>

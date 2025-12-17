@@ -30,14 +30,11 @@ export const LettersGallery = () => {
         transition={{ duration: 0.6 }}
         className="text-center mb-10"
       >
-        <p className="text-sm uppercase tracking-[0.2em] text-primary font-semibold mb-3">
+        <h2 className="font-display text-2xl sm:text-3xl font-bold text-primary">
           {letters.length === 1 && 'Your First Letter Has Arrived'}
           {letters.length === 2 && 'Your First Two Letters Have Arrived'}
           {letters.length === 3 && 'Your Third Letter Has Arrived'}
           {letters.length > 3 && `${letters.length} Letters Have Arrived`}
-        </p>
-        <h2 className="font-display text-2xl sm:text-3xl font-bold text-primary">
-          {letters.length === 1 ? 'A Moment in History Awaits' : 'Moments in History Await'}
         </h2>
       </motion.div>
 

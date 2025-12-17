@@ -69,7 +69,7 @@ Affectionately,`,
     week: 2,
     president: 'Richard Nixon',
     writtenFrom: 'December 31, 1972',
-    eventTitle: 'After Linebacker II',
+    eventTitle: 'After the Christmas Bombing',
     subject: "What They Won't Print",
     letter: `Dear Jim,
 

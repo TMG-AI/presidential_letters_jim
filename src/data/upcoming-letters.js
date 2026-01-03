@@ -16,9 +16,64 @@
  * - Grant: ~April 20, 2026
  * - Taft: ~May 21, 2026
  * - Grace Coolidge: ~June 11, 2026
+ * - Eisenhower (Rosenbergs): ~June 19, 2026
  */
 
 export const upcomingLetters = [
+  // Week 14: Eisenhower (Rosenbergs) — PUBLISH ~JUN 19, 2026
+  {
+    id: 'week-14-eisenhower-rosenbergs',
+    week: 14,
+    president: 'Dwight D. Eisenhower',
+    writtenFrom: 'June 19, 1953',
+    eventTitle: 'The Rosenberg Execution',
+    subject: "The Hardest No",
+    letter: `Dear Jim,
+
+I am at the farm tonight, sitting on the porch with a glass of bourbon I have barely touched. The sun went down an hour ago, and the fields are quiet. You know this land: the ground where Pickett's men charged up the ridge, where fifty thousand Americans fell in three days. I bought this farm because I wanted to understand something about the weight of command. Tonight I understand it better than I wish I did.
+
+It is done. Julius and Ethel Rosenberg were executed at Sing Sing at eight o'clock this evening. I refused their final appeal for clemency this morning.
+
+I have given orders that sent thousands of men to their deaths. I have stood over maps and drawn lines that determined who would live and who would not. But those were soldiers, and this was war, and there is a framework for understanding it, however inadequate. Tonight I signed away the lives of a man and a woman, and somewhere in New York there are two boys who will grow up without parents because I said no.
+
+The appeals came from everywhere: the Pope, scientists, foreign governments, ordinary citizens who filled my mailbag with pleas for mercy. Some accused me of murder. Some appealed to my Christianity. Some simply asked whether Ethel truly deserved to die for what her husband had done. I read them all. I did not answer most of them.
+
+Here is what I know, Jim: the Rosenbergs gave the Soviet Union the atomic bomb, or helped to. They shortened the time it took Moscow to develop the weapon by years. Every American soldier who died in Korea, every family that lives under the shadow of nuclear war, every child who practices hiding under a desk: the Rosenbergs bear some portion of that weight. The judge called their crime "worse than murder." He was right. A murderer takes one life. The Rosenbergs may have condemned entire cities to ash. I have seen what atomic weapons do. I have read the reports from Hiroshima. The mathematics of treason at this scale is beyond ordinary crime.
+
+You deal in calculations. You count votes, measure opinions, weigh outcomes. So do I, in my way. I calculated that mercy for the Rosenbergs would invite every spy in the world to believe that America lacks the will to punish betrayal. I calculated that the Soviets would read clemency as weakness. I calculated that the security of this nation required me to let the law take its course. I still believe those calculations were correct.
+
+And yet.
+
+Those two boys are ten and six years old. Michael and Robert. I know their names because I made myself learn them. Their mother wrote letters from her cell that the newspapers have published: tender, anguished letters about wanting to see them grow up. I am a grandfather. I know what it is to love a child and fear for their future. She will never see her sons become men. That is on me.
+
+I do not expect you to tell me I was right. You are too honest for easy comfort, and I would not trust it if you offered it. What I would ask is this: when you are faced with a decision that will make you hated, when the easy path is mercy and the hard path is duty, how do you know which voice to trust?
+
+I told myself I was following the law. The courts found them guilty. The appeals were exhausted. The sentence was death. A President does not pardon people simply because their execution is unpopular. That would make the law a plaything of public sentiment. But sitting here in the dark, looking out at the fields where Lee's army broke itself against the Union line, I find myself wondering: is that reason, or is it rationalization?
+
+They called me a liberator in Europe. Children threw flowers at our tanks. I was the man who defeated Hitler, and for a few years I was the most beloved figure in the world. Tonight, to millions of people, I am something else entirely.
+
+The picket signs will rot. The editorials will be forgotten. The decision remains. I must live with it, and so I will. A man does not get to command armies and then complain about the burden of command. But I wanted to write it down, to say it plainly to someone who would not flinch from hearing it: this was the hardest no I have ever given, and I am not certain I will ever stop seeing those boys' faces.
+
+The fireflies are out now. They do not care what happened in New York tonight. There is some comfort in that.`,
+    historicalContext: {
+      background: "Julius and Ethel Rosenberg were convicted in 1951 of conspiracy to commit espionage for passing atomic secrets to the Soviet Union. Their case became a global cause celebre, with protests in cities worldwide and appeals from luminaries including Albert Einstein, Pope Pius XII, Pablo Picasso, and Jean-Paul Sartre. Despite enormous international pressure, Eisenhower refused clemency.",
+      keyFacts: [
+        "Ethel's brother David Greenglass testified against her; decades later he admitted he lied to protect his own wife, and that Ethel's involvement was minimal",
+        "The Rosenbergs were the only American civilians executed for espionage during the Cold War",
+        "Their sons Michael (10) and Robert (6) were adopted by the songwriter Abel Meeropol, who wrote 'Strange Fruit'; they spent decades fighting to clear their parents' names",
+        "The execution was scheduled for 11 PM but moved to 8 PM to avoid violating the Jewish Sabbath, which begins at sundown on Friday",
+        "Ethel required three jolts from the electric chair; witnesses reported smoke rising from her head",
+        "7,000 people gathered in Union Square to protest on the night of the execution; smaller protests occurred in London, Paris, and Rome"
+      ],
+      whatPresidentKnew: "Eisenhower received classified intelligence briefings on Soviet nuclear capabilities and believed the Rosenbergs had significantly accelerated Moscow's atomic program. However, he was not shown evidence that later emerged questioning Ethel's level of involvement. In a private letter to his son John, Ike wrote: 'The Rosenbergs have received the benefit of every safeguard which American justice can provide.' He also argued that sparing Ethel because she was a woman would constitute 'discrimination against men.' Eisenhower understood the execution would be controversial internationally, but he did not anticipate how history would reassess the case, particularly Ethel's culpability.",
+      quote: {
+        text: "I can only say that, by immeasurably increasing the chances of atomic war, the Rosenbergs may have condemned to death tens of millions of innocent people all over the world.",
+        attribution: "Dwight D. Eisenhower, statement refusing clemency, June 1953"
+      }
+    },
+    signature: 'Ike'
+  },
+
   // Week 13: Grace Coolidge — PUBLISH ~JUN 11, 2026
   {
     id: 'week-13-grace-coolidge',

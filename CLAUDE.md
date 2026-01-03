@@ -417,3 +417,123 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** Colonel Edward House as intermediary/connection to Jim, asking Jim for political intel on Montana/Western states and Liberty Bond reception, baseball connection (Wilson devotee, Jim Yankees fan), Opening Day invitation, "We may be last in the American League, but at least we are first in something" joke (references famous Senators quip), Jeannette Rankin weeping as she voted no
 - **Signature:** "Woodrow Wilson"
 - **Voice Notes:** Formal academic prose, lonely and needing validation, self-doubt mixed with conviction, baseball fanatic, professor-turned-president
+
+### Week 11: Ulysses S. Grant
+- **Subject:** "Following Up on What You Asked"
+- **Written From:** April 20, 1871 (Grant signs the Ku Klux Klan Act)
+- **Delivered:** ~April 20, 2026
+- **Key Elements:** Asks Jim to go into hostile South Carolina counties, collect evidence from freedmen, coordinate with marshals, "The Constitution doesn't defend itself. Men do."
+- **Signature:** "U.S. Grant"
+
+### Week 12: William Howard Taft
+- **Subject:** "I Need Your Help"
+- **Written From:** May 21, 1909 (Nellie's stroke, tariff crisis)
+- **Delivered:** ~May 21, 2026
+- **Key Elements:** Nellie's stroke, losing his political strategist, tariff fight with Aldrich, needs Jim to read progressive senators
+- **Signature:** "William H. Taft"
+
+### Week 13: Grace Coolidge
+- **Subject:** "Today at the Monument"
+- **Written From:** June 11, 1927 (Welcoming Lindbergh home)
+- **Delivered:** ~June 11, 2026
+- **Key Elements:** Lindbergh ceremony, Jim brought young Calvin a model Jenny airplane, memory of their son who died at 16
+- **Signature:** "Grace"
+
+### Week 14: Dwight D. Eisenhower (Rosenbergs)
+- **Subject:** "The Hardest No"
+- **Written From:** June 19, 1953 (evening, after Rosenberg execution)
+- **Delivered:** ~June 19, 2026
+- **Key Elements:** At Gettysburg farm (NOT spouse going to bed), bourbon on the porch, Pickett's Charge fields, refused clemency, two orphaned boys (Michael and Robert), "worse than murder" — agrees with judge, calculations vs. mercy, fireflies closing
+- **Signature:** "Ike"
+- **Voice Notes:** Military precision, clear and direct, no wasted words, hides emotions but reveals them here
+
+---
+
+## Planning Session Notes (December 17, 2025)
+
+### Key Decisions Made:
+
+1. **Only dead presidents (or their wives/White House staff)**
+2. **Try not to repeat presidents** (some exceptions allowed for major figures)
+3. **No letters from living people Jim might know** (Clinton, Obama, Bush 43, Biden, Trump)
+4. **"Letters from the White House"** — can include non-presidents who worked there
+
+### Jim Messina Interests to Incorporate:
+- **Technology/innovation** — has driven driverless cars, loves new tech
+- **Data** — the numbers guy; polling, campaign analytics
+- **Humor** — great sense of humor
+- **Healthcare** — integral to Obamacare passage
+- **Fourth grade Carter story** — volunteered for Carter in 1980 mock election, lost to Reagan (origin story)
+
+### Planned Letters (Not Yet Written):
+
+**CONFIRMED:**
+| President/Author | Date | Event |
+|------------------|------|-------|
+| Eisenhower | June 19, 1953 | Rosenbergs execution |
+| Eisenhower | September 24, 1957 | Little Rock Nine |
+| Andrew Jackson | January 30, 1835 | Assassination attempt (both pistols misfire, beats attacker with cane) |
+| Hayes | March 2, 1877 | Disputed election decided (won by 1 electoral vote) |
+| Jefferson | July 4, 1803 | Louisiana Purchase |
+| Jefferson | July 11, 1804 | Hamilton's death |
+| Truman | August 6-9, 1945 | Hiroshima |
+| Ford | August 9, 1974 | Nixon resigns |
+| Madison | August 25, 1814 | White House burns |
+| Teddy Roosevelt | September 14, 1901 | McKinley dies, TR becomes president |
+| Hoover | October 29, 1929 | Stock Market Crash |
+| McKinley | October 1900 | Reelection campaign |
+| Carter | November 4, 1980 | Losing to Reagan (callback to Jim as "little Jimmy" in Boise) |
+| George H.W. Bush | November 3, 1992 | Losing to Clinton |
+| Benjamin Harrison | October 1889 | Electric lights in White House (scared of switches) |
+| Truman | Late 1949 | Healthcare proposal defeated (grandfather of Obamacare fight) |
+
+**STRONG MAYBES:**
+| President/Author | Date | Event | Notes |
+|------------------|------|-------|-------|
+| Teddy Roosevelt #2 | October 14, 1912 | Shot, gives 90-min speech anyway | Second TR letter |
+| Lincoln #2 | November 8, 1864 | Re-election during Civil War | Data angle: soldier vote counted separately |
+| Truman #2 | November 3, 1948 | "Dewey Defeats Truman" | Ultimate polling failure; great for data-guy Jim |
+| John Adams | November 1800 | Losing to Jefferson | Bitter first transfer of power |
+| Chester Arthur | January 16, 1883 | Signs Pendleton Act | Corrupt pol becomes reformer after Garfield's death |
+| Harry Hopkins | WWII era | FDR's closest advisor | Like Jim — the fixer behind the president |
+| H.R. Haldeman | 1973 (before prison) | Watergate unfolding | Must be while still in White House; cautionary tale |
+
+### Haldeman Timeline (for reference):
+- **April 30, 1973** — Resigned from White House
+- **1975** — Convicted, sentenced to prison
+- **1977** — Released after 18 months
+- **1978** — Diaries published
+- **1993** — Died
+
+**If we do Haldeman, letter must be dated before April 30, 1973** (while still in White House). Could be early 1973 as Watergate is unraveling.
+
+### Skip These:
+- Zachary Taylor (cherries and milk too thin)
+- Calvin Coolidge (too boring by design; already have Grace)
+- Chester Arthur Brooklyn Bridge (Jim may have seen Netflix series about Garfield)
+- FDR #2 D-Day (already have FDR; avoid more war letters)
+
+### Non-President White House Staff Options:
+- **Harry Hopkins** (died 1946) — FDR's shadow, lived in White House
+- **H.R. Haldeman** (died 1993) — Nixon's gatekeeper, Watergate cautionary tale
+- **Sherman Adams** (died 1986) — Eisenhower's "Assistant President"
+- **Hamilton Jordan** (died 2008) — Carter's young outsider chief of staff
+
+### Future Project Ideas (Post-52 weeks):
+- First Ladies writing to Jim
+- Failed presidential candidates (Bryan, Clay, Gore)
+- Historical figures who shaped democracy (Hamilton, Franklin, MLK, Frederick Douglass)
+- World leaders (Churchill, Mandela)
+- Pivotal Democratic Party moments
+
+---
+
+## Voice Cards (Continued)
+
+### Eisenhower Voice Card
+- **Writing Style:** Military precision, clear and direct, no wasted words
+- **Personality:** Calm, steady, hates politics but masters it, hides emotions well
+- **How he addressed friends:** "Dear [Name]"
+- **Signature to friends:** "Ike" or "D.E." or "Dwight D. Eisenhower"
+- **Key themes:** Duty, burden of command, loneliness of decisions, civilian control
+- **Notes:** Republican but courted by both parties; Jim would respect his operational genius

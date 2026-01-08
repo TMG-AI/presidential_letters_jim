@@ -10,6 +10,55 @@
  */
 
 export const letters = [
+  // Week 3: Washington — PUBLISHED JAN 8, 2026
+  {
+    id: 'week-3-washington',
+    week: 3,
+    president: 'George Washington',
+    writtenFrom: 'January 8, 1790',
+    eventTitle: 'After the First State of the Union Address',
+    subject: "The Burdens of This Station",
+    letter: `My dear Sir,
+
+Your letter of the 20th of last month came safely to hand, and I cannot tell you what comfort it brought me. In these early days of this new Government, when every man seems to want something from the President, it is a rare blessing to hear from one who asks nothing but to know how I fare. You are a true friend, and I do not use that word lightly.
+
+It is now past ten o'clock, and Martha has at last retir'd after what I can only describe as a most fatiguing day — tho' she bore it, as she bears all things, with a patience and grace that puts my own endurance to shame. I find myself unable to seek the same repose, and so I take up my pen to continue our correspondence while the house is quiet and my thoughts are my own.
+
+This morning I stood before the Congress assembled in Federal Hall and deliver'd what they are calling an Annual Address — a thing unprecedented, for which there existed no model nor precedent to guide me. I confess to you, my dear Sir, that I approach'd the occasion with all the reluctance of a culprit going to his execution. You will think I exaggerate, but I assure you upon my honour that I do not. The eyes of the Nation, and indeed of the World, were fix'd upon that chamber, and I felt the weight of every one of them.
+
+The Address itself went tolerably well, I am told. I spoke of the militia, of manufactures, of the naturalization of foreigners, of weights and measures — matters of governance that must be attended to if this experiment in republican government is to succeed. Yet even as I spoke, I could not escape the sensation that I was venturing upon an untrodden ground, where a single misstep might prove ruinous to all we have laboured to build.
+
+You know, my dear friend, that I accepted this office with the greatest reluctance, having bid farewell to all expectations of private happiness in this world. Mount Vernon calls to me in every quiet moment — the Potomack, the fields, the simple rhythms of a planter's life. In a few months the shad and herring will be running, and I confess there are mornings when I would trade all the honours of this office for a day on the river with a fishing line. You must come to Mount Vernon when the spring arrives, my friend — I should dearly love to take you out on the water, and to have your counsel on these matters away from the ceremonies and formalities of this city. And yet here I remain for now, bound by a sense of duty that will not release me, tho' I sometimes wonder if I have not sacrific'd more than any man ought to sacrifice for his country.
+
+What troubles me most, and what I would confide only to one such as yourself, is the fragility of this Union we have labour'd so hard to build. North Carolina has at last join'd us — thank Providence — but Rhode Island remains obstinate, and there is talk in Congress of imposing sanctions to compel her cooperation. Imagine it, my friend: we fought a war to unite thirteen colonies against tyranny, and now we must threaten one of our own with isolation to bring her into the fold. You, who have navigated the treacherous waters of political life with such skill, will understand my apprehension. If we cannot hold together eleven states and persuade a twelfth, what hope have we of enduring?
+
+There is something else I must own to you. I find the demands of this office more burdensome than anything I encounter'd during the War. In the field, the enemy was visible, the objective clear. Here, every decision invites criticism from one quarter or another, and there are days when I question whether I possess the faculties equal to the task. I tell you this not to invite your pity, but because I know you will keep my confidence, and because there is a relief in speaking plainly to a friend that no public ceremony can provide.
+
+Martha sends her warmest regards. She bids me tell you that you must visit us when your affairs permit, that we might enjoy an evening of conversation unclouded by the ceremonies that attend our present situation.
+
+I remain, with sentiments of sincere esteem and friendship,
+
+Your most Obedt. & Affecte. Hble Servant,`,
+    historicalContext: {
+      background: "Washington delivered the first-ever State of the Union address to a joint session of Congress in Federal Hall, New York City. The Constitution required only that the President 'shall from time to time give to the Congress Information of the State of the Union' — it said nothing about how. Washington chose to appear in person, setting a precedent that would last until Jefferson ended the practice in 1801, considering it too monarchical. The personal address tradition was revived by Woodrow Wilson in 1913.",
+      keyFacts: [
+        "Federal Hall was a hastily renovated city hall — the Senate chamber where Washington spoke had been a courtroom just months before",
+        "Washington wore a suit of brown American-made cloth to promote domestic manufactures — a political statement in an era of British imports",
+        "The address lasted about 10 minutes — the shortest State of the Union in history",
+        "Congress formally replied to Washington's address, and Washington then replied to their reply — a cumbersome tradition quickly abandoned",
+        "Vice President John Adams presided over the Senate, unsure of proper protocol; he had spent weeks debating what title to give Washington",
+        "Washington had been inaugurated only 8 months earlier, on April 30, 1789, on the same balcony of Federal Hall",
+        "The new government was so fragile that only 11 of 13 states had ratified the Constitution — North Carolina joined just two months before, Rhode Island still held out"
+      ],
+      whatPresidentKnew: "Washington's private letters reveal genuine anguish about accepting the presidency. To Henry Knox, he confessed he approached the inauguration 'with feelings not unlike those of a culprit who is going to his place of execution.' To Edward Rutledge, he wrote of having 'bid adieu to all expectations of private happiness in this world.' His diaries from this period show a man consumed by protocol questions: How should he receive visitors? Should he attend private dinners? He feared that every decision would set a precedent — and he was right.",
+      quote: {
+        text: "I walk on untrodden ground. There is scarcely any part of my conduct which may not hereafter be drawn into precedent.",
+        attribution: "George Washington, January 1790"
+      }
+    },
+    signature: 'G. Washington'
+  },
+
   // Week 1: FDR
   {
     id: 'week-1-fdr',

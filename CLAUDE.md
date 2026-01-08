@@ -1,6 +1,6 @@
 # Presidential Inbox — Session Notes
 
-**Last Updated:** December 17, 2025
+**Last Updated:** January 8, 2026
 
 ## Project Overview
 52-week letter series where historical U.S. presidents write to Jim Messina as a contemporary friend. Christmas gift to be delivered December 18, 2025.
@@ -115,12 +115,15 @@ Before finalizing any letter:
 - **Age comparisons:** FDR (Patton at 56), Nixon (FDR at 59) — STOP USING
 - **"Honest counsel" / "tell me what you really think":** JFK — don't reuse
 - **Sports/Grizzlies:** Nixon — vary how personal connections are made
-- **Spouse opening scene:** Nixon (Pat), Washington (Martha) — vary openings
+- **Spouse retiring/going to bed:** Nixon (Pat), Washington (Martha), JQA (Louisa) — STOP USING THIS COMPLETELY
 - **Fishing:** Washington — don't overuse outdoor activities
 - **Humble origins/self-made:** JFK — find other ways to connect
 - **"Shows up when things go sideways":** Reagan — don't reuse
 - **Absorbs criticism and persists:** JQA — don't reuse
 - **"Write when you can" closing:** Used in multiple letters — STOP USING
+- **"You understand better than most":** OVERUSED — never use again
+- **"Your counsel has always been valuable":** Generic flattery — don't use
+- **"one of the few men who will understand":** Used in Jefferson — vary how presidents explain why they're confiding in Jim
 
 ---
 
@@ -328,6 +331,15 @@ This is the most interesting part. Include:
 - **Key themes:** Untrodden ground, setting precedents, sacrifice of private happiness, burden of office
 - **Actual quotes to use:** "culprit going to execution," "bid adieu to all expectations of private happiness," "untrodden ground"
 
+### Jefferson Voice Card
+- **Writing Style:** Long, flowing sentences with multiple subordinate clauses; philosophical and reflective; Enlightenment vocabulary; classical references; formal but warm with trusted friends
+- **Personality:** Intellectual, principled but pragmatic when necessary, wrestles with contradictions thoughtfully (never self-flagellating), deeply values correspondence
+- **How he addressed friends:** "My dear Friend" or "My dear Sir"
+- **Signature to friends:** "Th: Jefferson" or "Your obedient servant"
+- **Key themes:** Tension between principle and necessity, constitutional limits vs. national interest, the burden of precedent
+- **Actual quotes to use:** "The laws of necessity, of self-preservation, of saving our country when in danger," "The less that is said about any constitutional difficulty, the better," "The Executive in seizing the fugitive occurrence which so much advances the good of their country, have done an act beyond the Constitution"
+- **Notes:** Jefferson NEVER calls himself a hypocrite — he acknowledges contradictions philosophically but frames them as struggles between competing principles. He loved gadgets, especially his polygraph machine ("the finest invention of the present age"). His salutation was almost invariably "Dear Sir" or "My dear Friend."
+
 ---
 
 ## 52-Week Calendar Reference
@@ -446,6 +458,15 @@ See original project document for full calendar. Key notes:
 - **Key Elements:** At Gettysburg farm (NOT spouse going to bed), bourbon on the porch, Pickett's Charge fields, refused clemency, two orphaned boys (Michael and Robert), "worse than murder" — agrees with judge, calculations vs. mercy, fireflies closing
 - **Signature:** "Ike"
 - **Voice Notes:** Military precision, clear and direct, no wasted words, hides emotions but reveals them here
+
+### Week 15: Thomas Jefferson (Louisiana Purchase)
+- **Subject:** "An Empire for Liberty"
+- **Written From:** July 4, 1803 (Louisiana Purchase)
+- **Delivered:** ~July 4, 2026
+- **Key Elements:** Polygraph machine opening (authentic — Jefferson loved this device), Bonaparte selling Louisiana, strict constructionist dilemma, "necessity has obliged me to do what theory forbade," uses Jefferson's actual words ("The laws of necessity, of self-preservation, of saving our country when in danger"), drafted constitutional amendment then abandoned it, "The less that is said about any constitutional difficulty, the better," Mississippi River navigation, candles burning low at midnight, no "hypocrite" language — philosophically wrestles with contradiction
+- **Signature:** "Th: Jefferson"
+- **Voice Notes:** Long flowing sentences with subordinate clauses, philosophical and reflective, Enlightenment vocabulary, formal but warm to friends ("My dear Friend"), never self-flagellating — wrestles with ideas thoughtfully
+- **Trump Parallels:** Expansive executive power, doing what's expedient vs. constitutional, setting precedents that "less scrupulous men may one day abuse," pragmatism over principle
 
 ---
 

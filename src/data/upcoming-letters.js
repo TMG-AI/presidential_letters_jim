@@ -20,6 +20,71 @@
  */
 
 export const upcomingLetters = [
+  // Week 15: Jefferson (Louisiana Purchase) — PUBLISH ~JUL 4, 2026
+  {
+    id: 'week-15-jefferson-louisiana',
+    week: 15,
+    president: 'Thomas Jefferson',
+    writtenFrom: 'July 4, 1803',
+    eventTitle: 'The Louisiana Purchase',
+    subject: "An Empire for Liberty",
+    letter: `My dear Friend,
+
+I write to you on this twenty-seventh anniversary of our Declaration, from my cabinet at the President's House, where the polygraph machine sits beside me. Its twin pens move in silent imitation of my own, permitting me to retain a copy of every letter without the tedium of transcription. Outside, the city celebrates with cannon fire and illuminations, yet I find myself in no mood for festivity. The news from Paris has unsettled me in ways I did not anticipate.
+
+But I did not take up my pen tonight to discourse upon machines. I write because extraordinary intelligence has reached us from Paris, and because I find myself in a situation so strange that I scarcely know how to describe it to you — save to say that necessity has obliged me to do what theory forbade, and I am not entirely certain whether I have saved the Republic or betrayed its first principles.
+
+You will have heard by now that Bonaparte has sold us Louisiana.
+
+Not merely New Orleans, which was all we sought — but the whole of it. The Missouri, the Arkansas, the Red River, and territories stretching westward to mountains we have never mapped. An empire, my friend. Livingston and Monroe went to Paris to purchase a city; they have returned with half a continent. Livingston writes that he signed the treaty the moment Bonaparte's minister put down his pen, fearing that another hour's delay might bring a change of mind. I cannot fault his judgment. When Providence offers what ambition dared not ask, a wise man does not hesitate.
+
+And yet, my friend, here is my difficulty — and I confess it to you because you are one of the few men in this Republic to whom I can speak without ornament.
+
+I have spent my public life arguing that the Constitution means what it says and nothing more. I have opposed every attempt to stretch its language beyond the plain sense of its words. When Hamilton wished to conjure a bank from the necessary and proper clause, I said it could not be done. When the Federalists sought to silence their critics with the Sedition Act, I said the Constitution did not permit it. I have been called a strict constructionist, and I have accepted the name with pride, believing that a government of enumerated powers is the only safeguard against tyranny.
+
+Where, then, in our Constitution, does it grant the President authority to purchase foreign territory and incorporate its inhabitants into the Union?
+
+I have searched, and I cannot find it.
+
+The General Government has no powers but such as the Constitution gives it. It has not given it the power of holding foreign territory, and still less of incorporating it into the Union. An amendment seems necessary for this. I drafted one. I showed it to Madison. He urged me, gently but firmly, to set it aside. What if the amendment should delay the treaty's ratification? What if Bonaparte, or his restless ambition, should find some pretext to reclaim what he has sold? The opportunity, Madison reminded me, is fugitive. It will not wait upon our theories.
+
+And so I find myself in the position of the physician who must cut to save the patient, knowing that the knife itself may wound. I have done an act beyond the Constitution. I know it. The laws of necessity, of self-preservation, of saving our country when in danger, justify actions which would otherwise be forbidden. But having done what I believe the people would have done for themselves had they the means, I must throw myself upon their judgment and trust that history will weigh the deed against the doctrine.
+
+Consider what we have purchased: a territory that doubles the extent of the Republic, secures the navigation of the Mississippi for our frontier settlements, and removes from our borders a European power whose ambitions might otherwise have hemmed us in forever. When we shall be full on this side, we may lay off a range of States on the western bank from the head to the mouth, and so, range after range, advancing compactly as we multiply. This is not merely land. It is the future.
+
+The Federalists will cry usurpation. They will say I have done precisely what I accused them of doing — stretched the Constitution to suit my purposes. And they will not be entirely wrong. The difference, if there be one, is this: I do not pretend that the Constitution authorized what I have done. I acknowledge that I have gone beyond it, and I submit myself to the judgment of my countrymen. Let them decide whether the necessity justified the act.
+
+I would not give one inch of the waters of the Mississippi to any nation, because I see in a light very important to our peace the exclusive right to its navigation. The farmers of Kentucky and Tennessee who float their produce down that river to New Orleans would have told you the same, had you asked them. Some principles are so vital to the Republic's survival that they must be secured even at the cost of theoretical consistency. A statesman, unlike a philosopher, cannot afford to be right in the abstract while the nation falls.
+
+The less that is said about any constitutional difficulty, the better. That is what I have told my Cabinet. Let Congress do what is necessary, in silence. And yet I find that I cannot remain silent to you, because you are one of the few men who will understand that the burden of decision is heavier than the burden of criticism. The editorialists may condemn or praise as they choose; they bear no responsibility for what follows. I must live with the consequences of what I have done, and with the knowledge that I have set a precedent that less scrupulous men may one day abuse.
+
+It is nearly midnight. The last of the fireworks have faded over the Potomac, and the city grows quiet. Somewhere beyond the mountains, in territories no American has yet mapped, there are rivers that will one day bear the commerce of a hundred million souls. They belong to us now, and to our posterity. I cannot regret what I have done. I can only hope that those who come after us will judge the act by its fruits rather than its form.
+
+I should be glad to know how the frontier receives this news, and whether the men along the Mississippi comprehend what has been secured for them. Write when your duties permit.
+
+I remain, with sentiments of the highest esteem and warmest friendship,
+
+Your obedient servant,`,
+    historicalContext: {
+      background: "The Louisiana Purchase was the greatest real estate transaction in history — 828,000 square miles for approximately $15 million, or about three cents per acre. Jefferson had sent James Monroe to Paris with instructions to purchase New Orleans and West Florida for up to $10 million. Instead, Napoleon — facing renewed war with Britain and needing cash — offered to sell the entire Louisiana Territory. The American negotiators, exceeding their instructions spectacularly, agreed within days. Jefferson learned of the deal in early July 1803 and faced an agonizing dilemma: accept a windfall that would transform the nation, or reject it on constitutional grounds he had championed his entire career.",
+      keyFacts: [
+        "Jefferson initially drafted a constitutional amendment to authorize the purchase, but abandoned it when advisors warned that delay might cause Napoleon to change his mind",
+        "The purchase doubled the size of the United States overnight — the new territory would eventually become all or part of 15 states",
+        "Napoleon sold Louisiana partly because a slave revolt in Haiti, led by Toussaint Louverture, had destroyed his plans for a French empire in the Americas",
+        "The polygraph machine Jefferson mentions was a mechanical device using two connected pens — as one wrote, the other made an exact duplicate; Jefferson called it 'the finest invention of the present age'",
+        "Jefferson told his Attorney General: 'The less that is said about any constitutional difficulty, the better'",
+        "The Federalists, who had been strict constructionists when it suited them, suddenly became advocates of loose construction to oppose Jefferson's purchase",
+        "Jefferson wrote to John Breckinridge: 'The Executive in seizing the fugitive occurrence which so much advances the good of their country, have done an act beyond the Constitution'"
+      ],
+      whatPresidentKnew: "Jefferson understood the constitutional problem better than anyone. He had built his political career on the principle that the federal government possessed only those powers explicitly granted by the Constitution. Now he was exercising a power nowhere mentioned in that document. In private correspondence, he admitted the contradiction openly: 'The General Government has no powers but such as the Constitution gives it. It has not given it power of holding foreign territory.' Yet he also recognized that the opportunity was, in his words, 'fugitive' — it would not wait for constitutional niceties. Jefferson chose pragmatism over principle, then spent the rest of his life wrestling with the precedent he had set. He never fully resolved the tension, but he never regretted the purchase.",
+      quote: {
+        text: "The laws of necessity, of self-preservation, of saving our country when in danger, are of higher obligation. To lose our country by a scrupulous adherence to written law, would be to lose the law itself.",
+        attribution: "Thomas Jefferson, letter to John Colvin, 1810"
+      }
+    },
+    signature: 'Th: Jefferson'
+  },
+
   // Week 14: Eisenhower (Rosenbergs) — PUBLISH ~JUN 19, 2026
   {
     id: 'week-14-eisenhower-rosenbergs',
@@ -587,54 +652,5 @@ Yours,`,
     signature: 'Jack'
   },
 
-
-  // Week 3: Washington — PUBLISH ~JAN 7-8, 2026
-  {
-    id: 'week-3-washington',
-    week: 3,
-    president: 'George Washington',
-    writtenFrom: 'January 8, 1790',
-    eventTitle: 'After the First State of the Union Address',
-    subject: "The Burdens of This Station",
-    letter: \`My dear Sir,
-
-Your letter of the 20th of last month came safely to hand, and I cannot tell you what comfort it brought me. In these early days of this new Government, when every man seems to want something from the President, it is a rare blessing to hear from one who asks nothing but to know how I fare. You are a true friend, and I do not use that word lightly.
-
-It is now past ten o'clock, and Martha has at last retir'd after what I can only describe as a most fatiguing day — tho' she bore it, as she bears all things, with a patience and grace that puts my own endurance to shame. I find myself unable to seek the same repose, and so I take up my pen to continue our correspondence while the house is quiet and my thoughts are my own.
-
-This morning I stood before the Congress assembled in Federal Hall and deliver'd what they are calling an Annual Address — a thing unprecedented, for which there existed no model nor precedent to guide me. I confess to you, my dear Sir, that I approach'd the occasion with all the reluctance of a culprit going to his execution. You will think I exaggerate, but I assure you upon my honour that I do not. The eyes of the Nation, and indeed of the World, were fix'd upon that chamber, and I felt the weight of every one of them.
-
-The Address itself went tolerably well, I am told. I spoke of the militia, of manufactures, of the naturalization of foreigners, of weights and measures — matters of governance that must be attended to if this experiment in republican government is to succeed. Yet even as I spoke, I could not escape the sensation that I was venturing upon an untrodden ground, where a single misstep might prove ruinous to all we have laboured to build.
-
-You know, my dear friend, that I accepted this office with the greatest reluctance, having bid farewell to all expectations of private happiness in this world. Mount Vernon calls to me in every quiet moment — the Potomack, the fields, the simple rhythms of a planter's life. In a few months the shad and herring will be running, and I confess there are mornings when I would trade all the honours of this office for a day on the river with a fishing line. You must come to Mount Vernon when the spring arrives, my friend — I should dearly love to take you out on the water, and to have your counsel on these matters away from the ceremonies and formalities of this city. And yet here I remain for now, bound by a sense of duty that will not release me, tho' I sometimes wonder if I have not sacrific'd more than any man ought to sacrifice for his country.
-
-What troubles me most, and what I would confide only to one such as yourself, is the fragility of this Union we have labour'd so hard to build. North Carolina has at last join'd us — thank Providence — but Rhode Island remains obstinate, and there is talk in Congress of imposing sanctions to compel her cooperation. Imagine it, my friend: we fought a war to unite thirteen colonies against tyranny, and now we must threaten one of our own with isolation to bring her into the fold. You, who have navigated the treacherous waters of political life with such skill, will understand my apprehension. If we cannot hold together eleven states and persuade a twelfth, what hope have we of enduring?
-
-There is something else I must own to you. I find the demands of this office more burdensome than anything I encounter'd during the War. In the field, the enemy was visible, the objective clear. Here, every decision invites criticism from one quarter or another, and there are days when I question whether I possess the faculties equal to the task. I tell you this not to invite your pity, but because I know you will keep my confidence, and because there is a relief in speaking plainly to a friend that no public ceremony can provide.
-
-Martha sends her warmest regards. She bids me tell you that you must visit us when your affairs permit, that we might enjoy an evening of conversation unclouded by the ceremonies that attend our present situation.
-
-I remain, with sentiments of sincere esteem and friendship,
-
-Your most Obedt. & Affecte. Hble Servant,\`,
-    historicalContext: {
-      background: "Washington delivered the first-ever State of the Union address to a joint session of Congress in Federal Hall, New York City. The Constitution required only that the President 'shall from time to time give to the Congress Information of the State of the Union' — it said nothing about how. Washington chose to appear in person, setting a precedent that would last until Jefferson ended the practice in 1801, considering it too monarchical. The personal address tradition was revived by Woodrow Wilson in 1913.",
-      keyFacts: [
-        "Federal Hall was a hastily renovated city hall — the Senate chamber where Washington spoke had been a courtroom just months before",
-        "Washington wore a suit of brown American-made cloth to promote domestic manufactures — a political statement in an era of British imports",
-        "The address lasted about 10 minutes — the shortest State of the Union in history",
-        "Congress formally replied to Washington's address, and Washington then replied to their reply — a cumbersome tradition quickly abandoned",
-        "Vice President John Adams presided over the Senate, unsure of proper protocol; he had spent weeks debating what title to give Washington",
-        "Washington had been inaugurated only 8 months earlier, on April 30, 1789, on the same balcony of Federal Hall",
-        "The new government was so fragile that only 11 of 13 states had ratified the Constitution — North Carolina joined just two months before, Rhode Island still held out"
-      ],
-      whatPresidentKnew: "Washington's private letters reveal genuine anguish about accepting the presidency. To Henry Knox, he confessed he approached the inauguration 'with feelings not unlike those of a culprit who is going to his place of execution.' To Edward Rutledge, he wrote of having 'bid adieu to all expectations of private happiness in this world.' His diaries from this period show a man consumed by protocol questions: How should he receive visitors? Should he attend private dinners? He feared that every decision would set a precedent — and he was right.",
-      quote: {
-        text: "I walk on untrodden ground. There is scarcely any part of my conduct which may not hereafter be drawn into precedent.",
-        attribution: "George Washington, January 1790"
-      }
-    },
-    signature: 'G. Washington'
-  },
 
 ];

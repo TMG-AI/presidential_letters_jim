@@ -10,7 +10,55 @@
  */
 
 export const letters = [
-  // Week 3: Washington (most recently posted)
+  // Week 4: JFK (most recently posted)
+  {
+    id: 'week-4-jfk',
+    week: 4,
+    president: 'John F. Kennedy',
+    writtenFrom: 'January 21, 1961',
+    eventTitle: 'The Morning After the Inauguration',
+    subject: "Before the Machinery Takes Over",
+    letter: `Dear Jim,
+
+The house is quiet. Jackie is still asleep — she earned it after yesterday — and the children won't stir for another hour. I've been up since before dawn, which surprises no one more than me given when I finally got to bed. But sleep wouldn't come. My mind keeps turning over everything that happened, and everything that's about to happen.
+
+I wanted to write to you before the machinery of this office takes over.
+
+Yesterday was unlike anything I could have imagined. The snow nearly wrecked the whole affair — they had Army engineers and Boy Scouts out before dawn, clearing Pennsylvania Avenue with flamethrowers and plows. And then the sun came out, so bright off the snow that poor Robert Frost couldn't read the poem he'd written for the occasion. He's eighty-six years old, squinting at the page while Lyndon tried to shield it with his top hat. It was no use. So Frost set the paper aside and recited "The Gift Outright" from memory instead. An old man summoning the words without a net. I'll remember that moment for the rest of my life.
+
+In an hour I'm signing my first executive order. We're doubling the surplus food distributed to families in need. It's not enough — it's never enough — but it's a start, and it's the first thing I wanted to do. You know why.
+
+West Virginia. I went there during the primary expecting to understand something about this country, and I discovered I understood almost nothing. I met families living in conditions I couldn't have imagined existed in America — coal miners thrown out of work, surviving on government surplus, children who looked hungry. There I was, a Harvard man in a pressed suit, asking for their votes. I felt like a fraud until I stopped talking and started listening.
+
+What I learned is that I need people around me who know what struggle actually looks like. Not from textbooks, not from briefings — from life. You're one of those people, Jim. You didn't inherit your place at the table. You fought your way there. That shapes how you see the world, who you fight for, what you're willing to do. I admire it more than I can properly express — because I don't have it, and I know that's a blind spot.
+
+"Ask not what your country can do for you — ask what you can do for your country." I meant every word. But I'll confess to you what I can't say publicly: the people who need to hear that message most are people like me, not people like you. You've been asking what you can do for others your whole life. That's not rhetoric for you. It's just Tuesday.
+
+I don't know what the next four years will bring. There will be crises I can't foresee and decisions that will keep me up at night. But I believe we have a real chance to do something meaningful — not just for the people who already have everything, but for the ones who've been forgotten. The ones I met in West Virginia. That executive order is the first step. There will be more.
+
+Write when you can. I want the unfiltered version — not what people think the President wants to hear.
+
+Yours,`,
+    historicalContext: {
+      background: "John F. Kennedy's inauguration on January 20, 1961, was a triumph of logistics over weather. A major winter storm had dumped eight inches of snow on Washington the night before, nearly canceling the ceremony. The Army Corps of Engineers, over 1,000 city workers, and 1,700 Boy Scouts worked through the night with plows, dump trucks, and flamethrowers to clear Pennsylvania Avenue. By morning, the skies had cleared but temperatures hovered around 20°F. Nearly one million people braved the cold to witness Kennedy take the oath — the youngest man ever elected to the presidency, and the first Catholic.",
+      keyFacts: [
+        "Robert Frost, 86 years old, was the first poet ever invited to speak at a presidential inauguration — he had written a new poem called 'Dedication' for the occasion but couldn't read it due to the blinding sun glare off the snow",
+        "Kennedy's famous 'Ask not' line was inspired by his old headmaster at Choate, who often said: 'Ask not what Choate can do for you, but what you can do for Choate'",
+        "The night before, Frank Sinatra and Peter Lawford produced a star-studded inaugural gala; Kennedy stayed out until nearly 4:00 a.m. on inauguration morning",
+        "Jackie Kennedy, exhausted and still recovering from John Jr.'s birth two months earlier, left the inaugural balls early; JFK continued to a party hosted by his father and didn't return to the White House until 3:30 a.m.",
+        "Kennedy's first act as president the next morning was to sign Executive Order 10914, doubling the surplus food distributed to needy families — a direct result of what he'd witnessed in West Virginia",
+        "The West Virginia primary had been a turning point: Kennedy, who admitted he'd 'barely ever seen poverty before,' was shocked by conditions in Appalachian mining towns and later credited the experience with shaping his domestic agenda"
+      ],
+      whatPresidentKnew: "Kennedy understood he had won one of the closest elections in American history — just 112,000 votes separated him from Nixon out of nearly 69 million cast. He knew half the country doubted whether a 43-year-old Catholic could handle the job. In private, he was already consumed by foreign policy crises: the deteriorating situation in Laos, tensions with the Soviet Union, and a CIA plan (inherited from Eisenhower) to use Cuban exiles to overthrow Fidel Castro. He did not yet know that plan would become the Bay of Pigs disaster in just three months. On the morning of January 21, as he looked out at the snow-covered South Lawn, he was still riding the high of the inauguration — but the weight of the office was already settling in.",
+      quote: {
+        text: "Ask not what your country can do for you — ask what you can do for your country.",
+        attribution: "John F. Kennedy, Inaugural Address, January 20, 1961"
+      }
+    },
+    signature: 'Jack'
+  },
+
+  // Week 3: Washington
   {
     id: 'week-3-washington',
     week: 3,

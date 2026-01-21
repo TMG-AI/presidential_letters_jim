@@ -32,7 +32,7 @@ export const upcomingLetters = [
 
 I write to you on this twenty-seventh anniversary of our Declaration, from my cabinet at the President's House, where the polygraph machine sits beside me. Its twin pens move in silent imitation of my own, permitting me to retain a copy of every letter without the tedium of transcription. Outside, the city celebrates with cannon fire and illuminations, yet I find myself in no mood for festivity. The news from Paris has unsettled me in ways I did not anticipate.
 
-But I did not take up my pen tonight to discourse upon machines. I write because extraordinary intelligence has reached us from Paris, and because I find myself in a situation so strange that I scarcely know how to describe it to you — save to say that necessity has obliged me to do what theory forbade, and I am not entirely certain whether I have saved the Republic or betrayed its first principles.
+I write because I find myself in a situation so strange that I scarcely know how to describe it to you — save to say that necessity has obliged me to do what theory forbade, and I am not entirely certain whether I have saved the Republic or betrayed its first principles.
 
 You will have heard by now that Bonaparte has sold us Louisiana.
 
@@ -603,53 +603,113 @@ Warmly,`,
     signature: 'Ron'
   },
 
-  // Week 4: JFK — PUBLISH ~JAN 21, 2026
+  // Week 16: Hayes (Disputed Election) — PUBLISH ~MAR 2, 2026
   {
-    id: 'week-4-jfk',
-    week: 4,
-    president: 'John F. Kennedy',
-    writtenFrom: 'January 21, 1961',
-    eventTitle: 'The Morning After the Inauguration',
-    subject: "Before the Machinery Takes Over",
+    id: 'week-16-hayes',
+    week: 16,
+    president: 'Rutherford B. Hayes',
+    writtenFrom: 'March 2, 1877',
+    eventTitle: 'The Disputed Election',
+    subject: "His Fraudulency",
     letter: `Dear Jim,
 
-The house is quiet. Jackie is still asleep — she earned it after yesterday — and the children won't stir for another hour. I've been up since before dawn, which surprises no one more than me given when I finally got to bed. But sleep wouldn't come. My mind keeps turning over everything that happened, and everything that's about to happen.
+It is half past four in the morning, and I have just been told that I am to be the nineteenth President of the United States. The candles in my study have burned nearly to their sockets. I should feel triumphant. I do not.
 
-I wanted to write to you before the machinery of this office takes over.
+At 4:11 this morning, the joint session of Congress completed its count and declared me the victor by a single electoral vote — 185 to 184. One vote, Jim. The margin between president and private citizen. I went to bed on election night in November believing I had lost. The early returns from New York and my own Ohio showed Tilden ahead, and I wrote in my diary that the Democrats had won. I was at peace with it. A man can bear defeat if he has done his duty.
 
-Yesterday was unlike anything I could have imagined. The snow nearly wrecked the whole affair — they had Army engineers and Boy Scouts out before dawn, clearing Pennsylvania Avenue with flamethrowers and plows. And then the sun came out, so bright off the snow that poor Robert Frost couldn't read the poem he'd written for the occasion. He's eighty-six years old, squinting at the page while Lyndon tried to shield it with his top hat. It was no use. So Frost set the paper aside and recited "The Gift Outright" from memory instead. An old man summoning the words without a net. I'll remember that moment for the rest of my life.
+What I cannot easily bear is this: the knowledge that half the nation believes I have stolen what Tilden won. They are calling me "Rutherfraud" and "His Fraudulency." The New York Sun has declared this a crime against democracy. Someone fired a rifle at my house in Columbus while I sat at dinner with Lucy. The bullet passed through the parlor window. We did not tell the children.
 
-In an hour I'm signing my first executive order. We're doubling the surplus food distributed to families in need. It's not enough — it's never enough — but it's a start, and it's the first thing I wanted to do. You know why.
+The Electoral Commission voted eight to seven, along strict party lines. Every Republican voted for me; every Democrat voted for Tilden. Not one man crossed over. Not one. What does that tell you about the nature of the verdict? They did not weigh the evidence and reach a conclusion. They counted their friends and reached a number.
 
-West Virginia. I went there during the primary expecting to understand something about this country, and I discovered I understood almost nothing. I met families living in conditions I couldn't have imagined existed in America — coal miners thrown out of work, surviving on government surplus, children who looked hungry. There I was, a Harvard man in a pressed suit, asking for their votes. I felt like a fraud until I stopped talking and started listening.
+You have spent your life in the machinery of elections. You understand, as few men do, that the count is not merely arithmetic — it is architecture. It can be built to support whatever conclusion the builders prefer. I do not say the Commission acted corruptly. I say only that I would feel cleaner this morning if a single Democrat had found his way to my column, or a single Republican had found his way to Tilden's.
 
-What I learned is that I need people around me who know what struggle actually looks like. Not from textbooks, not from briefings — from life. You're one of those people, Jim. You didn't inherit your place at the table. You fought your way there, and you remember what it's like when the rent is due and you're not sure how to make it. That kind of memory doesn't leave a person. It shapes how you see the world, who you fight for, what you're willing to do. I admire it more than I can properly express — because I don't have it, and I know that's a blind spot.
+There is something else I must tell you, though I have not yet committed it to my diary. There was a bargain. Not written down, not signed, but understood. The Southern Democrats will not contest my election. In exchange, I will withdraw the federal troops from Louisiana and South Carolina. I will appoint a Southerner to my cabinet. I will support internal improvements in the South. And I will allow them to deal with their Negro citizens as they see fit, without Northern interference.
 
-"Ask not what your country can do for you — ask what you can do for your country." I meant every word. But I'll confess to you what I can't say publicly: the people who need to hear that message most are people like me, not people like you. You've been asking what you can do for others your whole life. That's not rhetoric for you. It's just Tuesday.
+I am an abolitionist, Jim. I defended fugitive slaves in Cincinnati courtrooms when it was dangerous to do so. I believed — I still believe — that the colored man is entitled to every right that the white man enjoys. And yet I have agreed to abandon them. Not in those words. No one speaks plainly in these negotiations. But we all understand what "home rule" means. It means the men who wore gray will govern the men they once enslaved, and the federal government will look away.
 
-I don't know what the next four years will bring. There will be crises I can't foresee and decisions that will keep me up at night. But I believe we have a real chance to do something meaningful — not just for the people who already have everything, but for the ones who've been forgotten. The ones I met in West Virginia. That executive order is the first step. There will be more.
+I tell myself that I had no choice. Without this understanding, there would be no peaceful transfer of power. Tilden's supporters were talking of marching on Washington. There were rumors of a second civil war. The country cannot endure another war. And so I made my peace with men whose hands are not clean, and I will take the oath on Monday knowing that my presidency begins with a compromise that history may judge more harshly than I can bear to imagine.
 
-Write when you can. I want the unfiltered version — not what people think the President wants to hear.
+You have worked with people you disagree with — I am told you helped the Conservatives in Britain, though you are no Conservative yourself. You understand that governing sometimes requires sitting across the table from men whose principles offend you, finding the narrow ground where your interests briefly align. I do not ask you to approve of what I have done. I ask only whether you think a man can make such bargains and still call himself honest.
 
-Yours,`,
+Lucy is stirring upstairs. In a few hours, the sun will rise on the first full day of my presidency, and I must put on the face of a man who believes he has won fairly. The diary can hold my doubts. The public cannot see them.
+
+I would value a letter from you when time permits. Not flattery — I have sycophants enough for that. Tell me what you truly think of a man who purchases the presidency at such a price.
+
+Your friend,`,
     historicalContext: {
-      background: "John F. Kennedy's inauguration on January 20, 1961, was a triumph of logistics over weather. A major winter storm had dumped eight inches of snow on Washington the night before, nearly canceling the ceremony. The Army Corps of Engineers, over 1,000 city workers, and 1,700 Boy Scouts worked through the night with plows, dump trucks, and flamethrowers to clear Pennsylvania Avenue. By morning, the skies had cleared but temperatures hovered around 20°F. Nearly one million people braved the cold to witness Kennedy take the oath — the youngest man ever elected to the presidency, and the first Catholic.",
+      background: "The 1876 presidential election between Republican Rutherford B. Hayes and Democrat Samuel Tilden remains the most disputed in American history. Tilden won the popular vote by over 250,000 votes, but twenty electoral votes from Florida, Louisiana, South Carolina, and Oregon were contested. Congress created a fifteen-member Electoral Commission to resolve the dispute — eight Republicans and seven Democrats. The commission voted along strict party lines, 8-7, to award all twenty disputed votes to Hayes, giving him the presidency by a single electoral vote, 185-184.",
       keyFacts: [
-        "Robert Frost, 86 years old, was the first poet ever invited to speak at a presidential inauguration — he had written a new poem called 'Dedication' for the occasion but couldn't read it due to the blinding sun glare off the snow",
-        "Vice President Lyndon Johnson tried to shield Frost's paper with his top hat, but it didn't help — Frost abandoned the new poem and recited 'The Gift Outright' from memory instead",
-        "Kennedy's famous 'Ask not' line was inspired by his old headmaster at Choate, who often said: 'Ask not what Choate can do for you, but what you can do for Choate'",
-        "The night before, Frank Sinatra and Peter Lawford produced a star-studded inaugural gala; Kennedy stayed out until nearly 4:00 a.m. on inauguration morning",
-        "Jackie Kennedy, exhausted and still recovering from John Jr.'s birth two months earlier, left the inaugural balls early; JFK continued to a party hosted by his father and didn't return to the White House until 3:30 a.m.",
-        "Kennedy's first act as president the next morning was to sign Executive Order 10914, doubling the surplus food distributed to needy families — a direct result of what he'd witnessed in West Virginia",
-        "The West Virginia primary had been a turning point: Kennedy, who admitted he'd 'barely ever seen poverty before,' was shocked by conditions in Appalachian mining towns and later credited the experience with shaping his domestic agenda"
+        "Hayes went to bed on election night believing he had lost — he wrote in his diary that 'the Democrats have carried the country'",
+        "Someone fired a rifle shot through the window of Hayes's home in Columbus while he sat at dinner during the election dispute — the bullet lodged in the library wall",
+        "The Electoral Commission was created on January 29, 1877, and completed its work at 4:11 AM on March 2 — just two days before the scheduled inauguration",
+        "Because March 4 fell on a Sunday in 1877, Hayes took a private oath at the White House on Saturday, March 3, with the public ceremony on Monday, March 5",
+        "The 'Compromise of 1877' (also called the Wormley Agreement) was never written down — it was an informal understanding between Hayes's allies and Southern Democrats",
+        "Hayes was a genuine abolitionist who had defended fugitive slaves in court, making his agreement to end Reconstruction particularly painful",
+        "Democrats called Hayes 'Rutherfraud' and 'His Fraudulency' throughout his presidency"
       ],
-      whatPresidentKnew: "Kennedy understood he had won one of the closest elections in American history — just 112,000 votes separated him from Nixon out of nearly 69 million cast. He knew half the country doubted whether a 43-year-old Catholic could handle the job. In private, he was already consumed by foreign policy crises: the deteriorating situation in Laos, tensions with the Soviet Union, and a CIA plan (inherited from Eisenhower) to use Cuban exiles to overthrow Fidel Castro. He did not yet know that plan would become the Bay of Pigs disaster in just three months. On the morning of January 21, as he looked out at the snow-covered South Lawn, he was still riding the high of the inauguration — but the weight of the office was already settling in.",
+      whatPresidentKnew: "Hayes understood the moral weight of the bargain even as he made it. He was a lifelong diarist who recorded his doubts and anxieties in meticulous detail. He naively believed Southern Democrats would keep their promises to protect Black civil rights — they did not. By 1878, Hayes was writing bitterly in his diary about 'the fraud, intimidation, and violence of the most atrocious character' that white Southerners used to suppress Black voters. He later admitted the compromise had failed, but maintained he had no other choice: 'My judgment was that the time had come to put an end to bayonet rule.' The question of whether he sold out Black Americans to secure the presidency haunted the rest of his life.",
       quote: {
-        text: "Ask not what your country can do for you — ask what you can do for your country.",
-        attribution: "John F. Kennedy, Inaugural Address, January 20, 1961"
+        text: "He serves his party best who serves his country best.",
+        attribution: "Rutherford B. Hayes, Inaugural Address, March 5, 1877"
       }
     },
-    signature: 'Jack'
+    signature: 'R.B. Hayes'
+  },
+
+  // Week 17: Andrew Jackson (Assassination Attempt) — PUBLISH ~JAN 30, 2026
+  {
+    id: 'week-17-jackson',
+    week: 17,
+    president: 'Andrew Jackson',
+    writtenFrom: 'February 5, 1835',
+    eventTitle: 'The Assassination Attempt',
+    subject: "Both Pistols Misfired",
+    letter: `Dear Jim,
+
+I hope this letter finds you well, and that Montana remains as wild and free as you have always described it to me. I am writing from the President's House with a bruised hand and a question that will not leave me.
+
+You will have heard by now what happened at the Capitol last week. The newspapers have made a circus of it, as they do with everything concerning me. But I wanted you to hear the truth of it from the man who lived it, and to ask your counsel on what comes next.
+
+I was at the Capitol for the funeral of Representative Davis of South Carolina. A solemn occasion, as these things are. As I walked through the Rotunda afterward, a man stepped from behind a pillar — no more than six feet from me — and leveled a pistol at my chest. He pulled the trigger. The cap exploded but the powder did not catch. Before I could draw breath, he produced a second pistol and aimed again. That one failed too.
+
+I did not run, Jim. I went at him with my cane. I am sixty-seven years old with a bullet still lodged near my heart from a duel thirty years past, and I beat that wretch until Davy Crockett and the others pulled me off him. Providence, it seems, is not yet finished with Andrew Jackson.
+
+The man's name is Richard Lawrence. He is English, a house painter, and by all accounts quite mad. He believes himself to be the rightful King of England and claims I have been keeping him from his throne. He will stand trial in the coming months, and I expect the jury will find him insane — seven physicians have already examined him and say his mind is gone, and his own family confirms there is madness in his blood. Perhaps that is the whole of it. A lunatic acting alone.
+
+But I do not believe it, Jim. Not entirely.
+
+You know who my enemies are. Nicholas Biddle and his Bank. Henry Clay and his Whigs. Calhoun, who was my own Vice President until he showed his true nature. For years they have called me a tyrant, a Caesar, a king who must be stopped. Biddle's newspapers and the Whig press print it daily. Clay himself called me a "backwoods Caesar" on the floor of the Senate. When you tell the people often enough that a man is a despot, eventually some fool will believe it is his patriotic duty to remove him.
+
+I am not saying Biddle paid this lunatic to shoot me. I am saying the climate they have created made this possible. And now I must decide how to respond.
+
+I wanted to reach out to you because you are a fixer. Like me, when the shot is fired, you do not duck — you advance. This is why I have always liked you. So tell me: what would you do?
+
+Part of me wants to go on the attack. Name names. Demand that Clay and the Bank faction answer for the poison they have spread. Let the people see who has been stoking this hatred. But another part of me wonders if that gives my enemies exactly what they want — the image of King Andrew, using an assassination attempt to crush dissent and silence his critics.
+
+Now I know you and I don't see eye to eye on every matter. Jim, you are a man who thinks before he swings. I have never had that affliction. But on this, I know we agree: when the enemy advances, you do not retreat. My big question is whether to attack now or to let them exhaust themselves.
+
+Rachel would have told me to forgive. She was a better Christian than I will ever be. But she has been gone these six years now, and I find I am not built for forgiveness. I am built for fighting.
+
+Tell me what you would do if you were in my place. Not what the ministers would counsel. What would Jim Messina do?
+
+Your friend,`,
+    historicalContext: {
+      background: "Lawrence had originally planned to shoot Jackson as he entered the funeral service but couldn't get close enough. He waited near a pillar on the East Portico where Jackson would pass on his way out. When both pistols misfired, Lawrence stood frozen — and the frail sixty-seven-year-old president charged him, cane raised. The crowd, including Davy Crockett, eventually wrestled Lawrence into submission while Jackson kept swinging.",
+      keyFacts: [
+        "Lawrence had painted Senator George Poindexter's house in 1834 — and Poindexter had become one of Jackson's most vocal enemies after expecting a diplomatic appointment that never came",
+        "Jackson claimed he could produce fifty witnesses linking Poindexter to Lawrence; only two agreed to sign affidavits, and both were discredited under questioning",
+        "In the weeks before the attack, Lawrence was seen sitting in his paint shop muttering to himself about Jackson; on the day of the attempt, he suddenly stood up, left the shop, and said: 'I'll be damned if I don't do it'",
+        "At trial, Lawrence oscillated between eerie calm and screaming at the judge — at one point accusing the government of stealing a fortune from him in 1802, when he was two years old",
+        "Francis Scott Key, the prosecutor, tried to argue Lawrence was faking insanity; the jury deliberated five minutes",
+        "The odds of both pistols misfiring were later calculated by the Smithsonian at 125,000 to 1"
+      ],
+      whatPresidentKnew: "Jackson never accepted that Lawrence acted alone. He was convinced Poindexter and the Whigs had orchestrated the attack, and he ordered Vice President Van Buren to lead an investigation. The investigation fell apart when Jackson's witnesses couldn't identify Poindexter's house or keep their stories straight. Poindexter was cleared — but the scandal cost him re-election in Mississippi anyway. To his dying day, Jackson believed the Whigs had tried to have him killed.",
+      quote: {
+        text: "Let me alone! Let me alone! I know where this came from.",
+        attribution: "Andrew Jackson, shouted during the attack as bystanders restrained him, January 30, 1835"
+      }
+    },
+    signature: 'Andrew Jackson'
   },
 
 

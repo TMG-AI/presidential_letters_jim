@@ -10,7 +10,55 @@
  */
 
 export const letters = [
-  // Week 4: JFK (most recently posted)
+  // Week 5: Reagan (most recently posted)
+  {
+    id: 'week-5-reagan',
+    week: 5,
+    president: 'Ronald Reagan',
+    writtenFrom: 'January 28, 1986',
+    eventTitle: 'The Challenger Disaster',
+    subject: "Finding the Words",
+    letter: `Dear Jim,
+
+I've been wanting to write to you all day but couldn't find the words until now. I'm not sure I've found them yet, but I'm going to try.
+
+You've seen what happened. The whole world has. Seventy-three seconds after launch, and they were gone — all seven of them. I've been turning it over in my mind for hours, trying to understand something that doesn't make sense. Christa McAuliffe was going to teach a lesson from space. Every classroom in America was watching. Every child saw it happen.
+
+I was supposed to give the State of the Union tonight. We postponed it — first time that's ever been done, they tell me. It didn't feel like a decision. It was just the only decent thing to do.
+
+I spoke to the country a few hours ago. Peggy Noonan wrote it for me — you'd like her, she's got a sharp mind and knows how to cut through the noise. She ended it with lines from a poem called "High Flight," written by a young pilot who died in the war: "slipped the surly bonds of earth to touch the face of God." I used to read that poem on a plaque outside Patti's school when I'd drop her off in the mornings. Strange, the things that stay with you. I wasn't sure about using it — felt like it might be reaching for something. But sometimes when there's nothing adequate to say, you have to reach.
+
+Here's what I keep thinking about, Jim: How do you talk to a country that just watched seven people die on live television? I had to speak to the children who lost their teacher and to the NASA engineers who are already blaming themselves, all in the same five minutes. I had to find words for the eight-year-old and the eighty-year-old in the same breath, without talking down to either one. There's no playbook for that. You just stand there and hope something true comes out.
+
+You know, we've sparred plenty over the years. You're a Democrat down to your bones, and I suspect nothing I do will ever change that. But I've noticed something about you — when things go sideways, you don't disappear. You show up. You roll up your sleeves and figure out what needs doing. That's rarer than it should be. Most people are only around for the easy days.
+
+There will be investigations. There should be. But tonight I just want to remember their names: Dick Scobee, Michael Smith, Judith Resnik, Ellison Onizuka, Ronald McNair, Gregory Jarvis, and Christa McAuliffe. They climbed into that shuttle because they believed in something.
+
+Tomorrow the questions start. Tonight, we just grieve. But tomorrow I'll get up and do this job again, because that's what the job requires. The country needs to see that we go on.
+
+Write when you get a chance.
+
+Warmly,`,
+    historicalContext: {
+      background: "The Space Shuttle Challenger disaster on January 28, 1986, was one of the most watched tragedies in American history. NASA had invited Christa McAuliffe, a high school social studies teacher from Concord, New Hampshire, to be the first private citizen in space as part of the Teacher in Space Project. Because of her presence, schools across America had set up televisions so students could watch the launch live. An estimated 17% of Americans — and millions of schoolchildren — witnessed the shuttle break apart 73 seconds after liftoff.",
+      keyFacts: [
+        "The Challenger crew included five NASA astronauts and two payload specialists: Commander Dick Scobee, Pilot Michael Smith, Mission Specialists Judith Resnik, Ellison Onizuka, and Ronald McNair, and Payload Specialists Gregory Jarvis and Christa McAuliffe",
+        "The disaster was caused by the failure of an O-ring seal in the right solid rocket booster, which had become brittle in the unusually cold Florida weather that morning (36°F at launch)",
+        "Engineer Roger Boisjoly of Morton Thiokol had warned NASA the night before that the O-rings could fail in cold temperatures — his concerns were overruled",
+        "The speech Reagan delivered that evening was written by Peggy Noonan, then a relatively unknown White House speechwriter, in just a few hours",
+        "Reagan was initially skeptical of Noonan's closing lines from the poem 'High Flight' — the next morning he called her and said Frank Sinatra had phoned to praise the speech, adding 'and Frank doesn't call after every speech'",
+        "Three days later, Reagan and Nancy traveled to Houston for a memorial service at the Johnson Space Center, where T-38 jets flew overhead in the missing man formation"
+      ],
+      whatPresidentKnew: "When the news reached Reagan, his 'eyes went wide, his mouth opened in total surprise,' according to Cabinet Secretary Alfred Kingon. Reagan and his staff gathered around a television in stunned silence, watching the footage replay again and again. He later called it 'a very traumatic experience.' Reagan faced a unique challenge: he had to address both grieving adults and the millions of children who had just watched their teacher die on live television. Noonan later said Reagan had to 'speak to the nation's kids while saying what was appropriate to adults... to those who were 8 and those who were 80, without patronizing anyone.' There were also questions — never proven — about whether White House pressure to launch before the State of the Union had contributed to NASA's decision to proceed despite the cold weather.",
+      quote: {
+        text: "The crew of the space shuttle Challenger honored us by the manner in which they lived their lives. We will never forget them, nor the last time we saw them, this morning, as they prepared for their journey and waved goodbye and 'slipped the surly bonds of earth' to 'touch the face of God.'",
+        attribution: "Ronald Reagan, Address to the Nation, January 28, 1986"
+      }
+    },
+    signature: 'Ron'
+  },
+
+  // Week 4: JFK
   {
     id: 'week-4-jfk',
     week: 4,

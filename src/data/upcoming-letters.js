@@ -497,61 +497,6 @@ Yours in a hard season,`,
     signature: 'Andrew Johnson'
   },
 
-  // Week 6: John Quincy Adams — PUBLISH ~FEB 9, 2026
-  {
-    id: 'week-6-jqadams',
-    week: 6,
-    president: 'John Quincy Adams',
-    writtenFrom: 'February 9, 1825',
-    eventTitle: 'The House Elects John Quincy Adams President',
-    subject: "Less Chosen Than Appointed",
-    letter: `Dear Jim,
-
-I have just returned from Federal Hall, and my hand trembles as I write — not from cold, though the February night is bitter, but from the enormity of what has transpired. Louisa has been magnificent all day, but she has at last retired, and I find myself alone with my thoughts and my diary. Tonight, however, the diary will not suffice. I require a friend who understands the peculiar burdens of political life — and so I write to you.
-
-The House of Representatives has chosen me to be the sixth President of the United States.
-
-I should feel triumph. I feel something closer to dread.
-
-You will have heard the particulars by now. Jackson received the most popular votes. Jackson received the most electoral votes. And yet here I sit, President-elect, because the Constitution sent the question to the House, and because Henry Clay determined that his support should rest with me rather than with the General from Tennessee. Thirteen states for Adams. Seven for Jackson. Four for Crawford. A majority, perfectly legal, and entirely insufficient to silence the whispers that have already begun.
-
-They are calling it a "corrupt bargain," Jim. Jackson's people are saying I traded the State Department for the Presidency — that Clay sold his influence and I bought it. There was no such bargain. I give you my word as a gentleman that Henry and I made no arrangement of the kind. But when I offer Clay the position — as I almost certainly must, for he is the most qualified man for it — who will believe me? The accusation will follow me into the grave.
-
-I am a minority President, my friend. I know it. The country knows it. And Jackson, who sits tonight in his rooms convinced that the people's will has been thwarted, will spend the next four years making certain no one forgets.
-
-You know what this is, Jim. You have maneuvered through political terrain where every decision invites suspicion, where your motives are questioned no matter how pure they may be. You have been called things I will not repeat in writing. And yet you persist. You do the work, absorb the criticism, and keep your eye fixed on what must be accomplished. I confess I do not know how you manage it with such equanimity.
-
-I watched what the Presidency did to my father. He gave everything to this country — his health, his fortune, his peace of mind — and the people turned him out after a single term. He went home to Quincy convinced that his sacrifices had been forgotten. I remember the look on his face. He told me his shoulders felt relieved of a burden, but I knew him too well to believe it entirely.
-
-Jackson will not rest. His people are already sharpening their knives. I may well follow my father's path — one term and out, the Adams inheritance.
-
-You have a quality I lack, Jim. You can take a blow and get back to work without brooding over the injustice of it. I am told I have a cold and forbidding manner, that I am an unsocial creature ill-suited to democratic politics. My diary agrees with this assessment. The people wanted a General; they will receive a scholar. I suspect they will resent the substitution.
-
-Perhaps they are right to. Perhaps I am not the man for this moment. But I am the man who was chosen, however imperfectly, and I will not pretend otherwise. History will render its verdict. I can only hope to give it something worth judging.
-
-Louisa asks me to convey her warm regards to you and to Taya.
-
-I remain, with sincere esteem and the warmest regard, ever faithfully your friend,`,
-    historicalContext: {
-      background: "The election of 1824 was the first in American history where no candidate won a majority of electoral votes, throwing the decision to the House of Representatives under the Twelfth Amendment. It was also the first election where the popular vote was widely recorded — and the first where the winner of that vote did not become president. The Constitution limited the House to choosing among the top three electoral vote-getters, which eliminated fourth-place finisher Henry Clay. But as Speaker of the House, Clay controlled the outcome anyway.",
-      keyFacts: [
-        "The House vote took place during a blizzard so severe that many representatives struggled to reach the Capitol; one congressman from North Carolina arrived just minutes before the roll was called",
-        "Each state delegation cast a single vote — meaning tiny Delaware had equal weight with populous New York",
-        "Stephen Van Rensselaer, a New York congressman, reportedly couldn't decide how to vote, bowed his head in prayer, opened his eyes, saw an Adams ballot on the floor, and took it as a sign from God",
-        "Clay had received instructions from the Kentucky legislature to support Jackson, but ignored them and delivered Kentucky's vote to Adams anyway",
-        "Jackson won the popular vote by more than 41,000 ballots — a margin that would be considered a landslide in modern elections",
-        "When the result was announced, a Jackson supporter shouted from the gallery: 'It is enough — the deed is done!' and had to be escorted out",
-        "No presidential election has been decided by the House of Representatives since"
-      ],
-      whatPresidentKnew: "Adams understood the precariousness of his position better than anyone. In his diary, he had written during the campaign: 'It seems as if every liar and calumniator in the Country was at work day and night to destroy my character.' He knew that appointing Clay as Secretary of State — then considered the stepping-stone to the presidency — would confirm every suspicion. But Clay was genuinely his first choice for the role, and Adams refused to let the appearance of impropriety dictate his Cabinet. 'I determined to give him the place,' Adams later wrote, describing the decision as one of 'duty' rather than payment. Historians have found no evidence of an explicit deal, but the political damage was done the moment Clay's name was announced.",
-      quote: {
-        text: "May the blessing of God rest upon the event of this day!",
-        attribution: "John Quincy Adams, diary entry, February 9, 1825"
-      }
-    },
-    signature: 'John Quincy Adams'
-  },
-
   // Week 16: Hayes (Disputed Election) — PUBLISH ~MAR 2, 2026
   {
     id: 'week-16-hayes',
@@ -604,62 +549,5 @@ Your friend,`,
     },
     signature: 'R.B. Hayes'
   },
-
-  // Week 17: Andrew Jackson (Assassination Attempt) — PUBLISH ~JAN 30, 2026
-  {
-    id: 'week-17-jackson',
-    week: 17,
-    president: 'Andrew Jackson',
-    writtenFrom: 'February 5, 1835',
-    eventTitle: 'The Assassination Attempt',
-    subject: "Both Pistols Misfired",
-    letter: `Dear Jim,
-
-I hope this letter finds you well, and that Montana remains as wild and free as you have always described it to me. I am writing from the President's House with a bruised hand and a question that will not leave me.
-
-You will have heard by now what happened at the Capitol last week. The newspapers have made a circus of it, as they do with everything concerning me. But I wanted you to hear the truth of it from the man who lived it, and to ask your counsel on what comes next.
-
-I was at the Capitol for the funeral of Representative Davis of South Carolina. A solemn occasion, as these things are. As I walked through the Rotunda afterward, a man stepped from behind a pillar — no more than six feet from me — and leveled a pistol at my chest. He pulled the trigger. The cap exploded but the powder did not catch. Before I could draw breath, he produced a second pistol and aimed again. That one failed too.
-
-I did not run, Jim. I went at him with my cane. I am sixty-seven years old with a bullet still lodged near my heart from a duel thirty years past, and I beat that wretch until Davy Crockett and the others pulled me off him. Providence, it seems, is not yet finished with Andrew Jackson.
-
-The man's name is Richard Lawrence. He is English, a house painter, and by all accounts quite mad. He believes himself to be the rightful King of England and claims I have been keeping him from his throne. He will stand trial in the coming months, and I expect the jury will find him insane — seven physicians have already examined him and say his mind is gone, and his own family confirms there is madness in his blood. Perhaps that is the whole of it. A lunatic acting alone.
-
-But I do not believe it, Jim. Not entirely.
-
-You know who my enemies are. Nicholas Biddle and his Bank. Henry Clay and his Whigs. Calhoun, who was my own Vice President until he showed his true nature. For years they have called me a tyrant, a Caesar, a king who must be stopped. Biddle's newspapers and the Whig press print it daily. Clay himself called me a "backwoods Caesar" on the floor of the Senate. When you tell the people often enough that a man is a despot, eventually some fool will believe it is his patriotic duty to remove him.
-
-I am not saying Biddle paid this lunatic to shoot me. I am saying the climate they have created made this possible. And now I must decide how to respond.
-
-I wanted to reach out to you because you are a fixer. Like me, when the shot is fired, you do not duck — you advance. This is why I have always liked you. So tell me: what would you do?
-
-Part of me wants to go on the attack. Name names. Demand that Clay and the Bank faction answer for the poison they have spread. Let the people see who has been stoking this hatred. But another part of me wonders if that gives my enemies exactly what they want — the image of King Andrew, using an assassination attempt to crush dissent and silence his critics.
-
-Now I know you and I don't see eye to eye on every matter. Jim, you are a man who thinks before he swings. I have never had that affliction. But on this, I know we agree: when the enemy advances, you do not retreat. My big question is whether to attack now or to let them exhaust themselves.
-
-Rachel would have told me to forgive. She was a better Christian than I will ever be. But she has been gone these six years now, and I find I am not built for forgiveness. I am built for fighting.
-
-Tell me what you would do if you were in my place. Not what the ministers would counsel. What would Jim Messina do?
-
-Your friend,`,
-    historicalContext: {
-      background: "Lawrence had originally planned to shoot Jackson as he entered the funeral service but couldn't get close enough. He waited near a pillar on the East Portico where Jackson would pass on his way out. When both pistols misfired, Lawrence stood frozen — and the frail sixty-seven-year-old president charged him, cane raised. The crowd, including Davy Crockett, eventually wrestled Lawrence into submission while Jackson kept swinging.",
-      keyFacts: [
-        "Lawrence had painted Senator George Poindexter's house in 1834 — and Poindexter had become one of Jackson's most vocal enemies after expecting a diplomatic appointment that never came",
-        "Jackson claimed he could produce fifty witnesses linking Poindexter to Lawrence; only two agreed to sign affidavits, and both were discredited under questioning",
-        "In the weeks before the attack, Lawrence was seen sitting in his paint shop muttering to himself about Jackson; on the day of the attempt, he suddenly stood up, left the shop, and said: 'I'll be damned if I don't do it'",
-        "At trial, Lawrence oscillated between eerie calm and screaming at the judge — at one point accusing the government of stealing a fortune from him in 1802, when he was two years old",
-        "Francis Scott Key, the prosecutor, tried to argue Lawrence was faking insanity; the jury deliberated five minutes",
-        "The odds of both pistols misfiring were later calculated by the Smithsonian at 125,000 to 1"
-      ],
-      whatPresidentKnew: "Jackson never accepted that Lawrence acted alone. He was convinced Poindexter and the Whigs had orchestrated the attack, and he ordered Vice President Van Buren to lead an investigation. The investigation fell apart when Jackson's witnesses couldn't identify Poindexter's house or keep their stories straight. Poindexter was cleared — but the scandal cost him re-election in Mississippi anyway. To his dying day, Jackson believed the Whigs had tried to have him killed.",
-      quote: {
-        text: "Let me alone! Let me alone! I know where this came from.",
-        attribution: "Andrew Jackson, shouted during the attack as bystanders restrained him, January 30, 1835"
-      }
-    },
-    signature: 'Andrew Jackson'
-  },
-
 
 ];
